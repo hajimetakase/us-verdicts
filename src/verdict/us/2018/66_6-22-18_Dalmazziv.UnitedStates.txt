@@ -1,0 +1,34 @@
+
+SUMMARY:
+id:66
+date:6/22/18
+docket:16-961
+name:Dalmazzi v. United States
+summary: Certiorari dismissed as improvidently granted.
+revised: 
+J.:PC
+Pt.:585/1
+url:https://www.supremecourt.gov/opinions/17pdf/16-961_jiel.pdf
+
+VERDICT:
+_________________
+_________________
+ 
+1 (Slip Opinion) Cite as: 585 U. S. ____ (2018) 
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 16–961
+NICOLE A. DALMAZZI, PETITIONER v.
+ 
+UNITED STATES
+ 
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES
+ 
+[June 22, 2018] PER CURIAM. The writ of certiorari is dismissed as improvidently granted.
+It is so ordered.
+              
