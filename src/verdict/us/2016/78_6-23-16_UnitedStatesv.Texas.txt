@@ -1,0 +1,29 @@
+
+SUMMARY:
+id:78
+date:6/23/16
+docket:15-674
+name:United States v. Texas
+summary: Judgment affirmed by an equally divided Court.
+revised: 
+J.:PC
+Pt.:579/2
+url:https://www.supremecourt.gov/opinions/15pdf/15-674_jhlo.pdf
+
+VERDICT:
+_________________
+_________________
+ 
+1 (Slip Opinion) Cite as: 579 U. S. ____ (2016) 
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 15–674
+UNITED STATES, ET AL., PETITIONERS v. TEXAS, ET AL. ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+ 
+[June 23, 2016] PER CURIAM. The judgment is affirmed by an equally divided Court.
+              
