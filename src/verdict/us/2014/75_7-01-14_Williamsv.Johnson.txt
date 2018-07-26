@@ -1,0 +1,29 @@
+
+SUMMARY:
+id:75
+date:7/01/14
+docket:13-9085
+name:Williams v. Johnson
+summary: The judgment is vacated, and the case is remanded for consideration of petitioner's Sixth Amendment claim under the standard set forth in 28 U. S. C. §2254(d).
+revised:
+J.:PC
+Pt.:573/2
+url:https://www.supremecourt.gov/opinions/13pdf/13-9085_q4kp.pdf
+
+VERDICT:
+1 Cite as: 573 U. S. ____ (2014) 
+Per Curiam
+SUPREME COURT OF THE UNITED STATES 
+TARA SHENEVA WILLIAMS v. DEBORAH K. JOHNSON, ACTING WARDEN
+ 
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+ 
+No. 13–9085. Decided July 1, 2014 PER CURIAM. 
+The motion for leave to proceed in forma pauperis and 
+the petition for a writ of certiorari are granted.  The judg-
+ment of the United States Court of Appeals for the Ninth
+Circuit is vacated, and the case is remanded for considera-
+tion of petitioner’s Sixth Amendment claim under the 
+standard set forth in 28 U. S. C. §2254(d). 
+It is so ordered.
+              

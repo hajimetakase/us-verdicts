@@ -1,0 +1,522 @@
+
+SUMMARY:
+id:68
+date:6/26/17
+docket:15-118
+name:Hernandez v. Mesa
+summary: Here, where a U. S. Border Patrol agent on American soil shot and killed a Mexican national across the U. S.-Mexico border, the Sixth Circuit is to determine whether the victim’s parents may assert damages claims against the agent under Bivens v. Six Unknown Fed. Narcotics Agents, 403 U. S. 388, in light of the intervening guidance provided in Ziglar v. Abbasi, 582 U. S. ___.
+revised: 
+J.:PC
+Pt.:582/2
+url:https://www.supremecourt.gov/opinions/16pdf/15-118_97bf.pdf
+
+VERDICT:
+_________________
+_________________ 
+1 (Slip Opinion) Cite as: 582 U. S. ____ (2017) 
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 15–118
+JESUS C. HERNANDEZ, ET AL., PETITIONERS v.JESUS MESA, JR., ET AL. ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+ 
+[June 26, 2017] PER CURIAM. 
+This case involves a tragic cross-border incident in
+which a United States Border Patrol agent standing on 
+United States soil shot and killed a Mexican national 
+standing on Mexican soil. The three questions presented 
+concern whether the parents of the victim of that shooting 
+may assert claims for damages against the agent under 
+Bivens v. Six Unknown Fed. Narcotics Agents, 403 U. S.
+388 (1971); whether the shooting violated the victim’s 
+Fourth Amendment rights; and whether the agent is 
+entitled to qualified immunity on a claim that the shooting 
+violated the victim’s Fifth Amendment rights.
+Because this case was resolved on a motion to dismiss, 
+the Court accepts the allegations in the complaint as true
+for purposes of this opinion. See Wood v. Moss, 572 U. S. 
+___, ___ (2014) (slip op., at 12).  On June 7, 2010, Sergio
+Adrián Hernández Güereca, a 15-year-old Mexican na­
+tional, was with a group of friends in the cement culvert
+that separates El Paso, Texas, from Ciudad Juarez, Mex- 
+ico. Now all but dry, the culvert once contained the waters
+of the Rio Grande River. The international boundary runs
+ 
+ 
+    
+ 
+ 
+2 HERNANDEZ v. MESA
+Per Curiam
+down the middle of the culvert, and at the top of the em­
+bankment on the United States side is a fence.  According 
+to the complaint, Hernández and his friends were playing 
+a game in which they ran up the embankment on the
+United States side, touched the fence, and then ran back 
+down. At some point, Border Patrol Agent Jesus Mesa, 
+Jr., arrived on the scene by bicycle and detained one of
+Hernández’s friends in United States territory as the
+friend ran down the embankment. Hernández ran across 
+the international boundary into Mexican territory and
+stood by a pillar that supports a railroad bridge spanning 
+the culvert.  While in United States territory, Mesa then 
+fired at least two shots across the border at Hernández.
+One shot struck Hernández in the face and killed him. 
+According to the complaint, Hernández was unarmed and 
+unthreatening at the time. 
+The Department of Justice investigated the incident. 
+The Department concluded that the shooting “occurred
+while smugglers attempting an illegal border crossing 
+hurled rocks from close range at a [Customs and Border
+Patrol] agent who was attempting to detain a suspect.”
+Dept. of Justice, Office of Public Affairs, Federal Officials 
+Close Investigation Into the Death of Sergio Hernandez-
+Guereca (Apr. 27, 2012), online at http://www.justice.
+gov/opa/pr/federal-officials-close-investigation-death-sergio­
+hernandez-guereca (as last visited June 23, 2017).  “[O]n
+these particular facts,” the Department determined, “the 
+agent did not act inconsistently with [Customs and Border
+Patrol] policy or training regarding use of force.” Ibid.
+The Department also declined to bring federal civil rights
+charges against Mesa.  In the Department’s view, there 
+was insufficient evidence that Mesa “acted willfully and 
+with the deliberate and specific intent to do something the 
+law forbids,” and, in any event, Hernández “was neither 
+within the borders of the United States nor present on
+U. S. property, as required for jurisdiction to exist under
+ 
+  
+ 
+3 Cite as: 582 U. S. ____ (2017) 
+Per Curiam
+the applicable federal civil rights statute.” Ibid.  The  
+Department expressed regret for the loss of life in the 
+incident and pledged “to work with the Mexican govern­
+ment within existing mechanisms and agreements to
+prevent future incidents.”  Ibid.
+Petitioners—Hernández’s parents—brought suit. Among
+other claims, petitioners brought claims against Mesa for 
+damages under Bivens, alleging that Mesa violated Her­
+nández’s rights under the Fourth and Fifth Amendments. 
+The United States District Court for the Western District
+of Texas granted Mesa’s motion to dismiss.  A panel of the
+Court of Appeals for the Fifth Circuit affirmed in part and
+reversed in part. The panel held that Hernández lacked
+any Fourth Amendment rights under the circumstances, 
+but that the shooting violated his Fifth Amendment 
+rights. Hernandez v. United States, 757 F. 3d 249, 267,
+272 (2014); id., at 280–281 (Dennis, J., concurring in part 
+and concurring in judgment); id., at 281 (DeMoss, J., 
+concurring in part and dissenting in part).  The panel also 
+found “no reason to hesitate in extending Bivens to this
+new context.”  Id., at 275.  And the panel held that Mesa
+was not entitled to qualified immunity, concluding that
+“[n]o reasonable officer would have understood Agent 
+Mesa’s alleged conduct to be lawful.” Id., at 279. Judge
+DeMoss dissented in part, arguing that Hernández lacked
+any Fifth Amendment rights under the circumstances. 
+Id., at 281–282. 
+On rehearing en banc, the Court of Appeals unanimously 
+affirmed the District Court’s dismissal of petitioners’ 
+claims against Mesa. The en banc Court of Appeals first 
+held that petitioners had failed to state a claim for a viola­
+tion of the Fourth Amendment because Hernández was “a
+Mexican citizen who had no ‘significant voluntary connec­
+tion’ to the United States” and “was on Mexican soil at the
+time he was shot.” Hernandez v. United States, 785 F. 3d
+117, 119 (CA5 2015) (per curiam) (quoting United States v.
+    
+4 HERNANDEZ v. MESA
+Per Curiam
+Verdugo-Urquidez, 494 U. S. 259, 271 (1990)).  As to peti­
+tioners’ claim under the Fifth Amendment, the en banc 
+Court of Appeals was “somewhat divided on the question 
+of whether Agent Mesa’s conduct violated the Fifth
+Amendment,” but was “unanimous” in concluding that 
+Mesa was entitled to qualified immunity. 785 F. 3d, at 
+120. The en banc Court of Appeals explained that “[n]o
+case law in 2010, when this episode occurred, reasonably 
+warned Agent Mesa” that “the general prohibition of
+excessive force applies where the person injured by a U. S.
+official standing on U. S. soil is an alien who had no signif­
+icant voluntary connection to, and was not in, the United 
+States when the incident occurred.”  Ibid.  Because the en
+banc Court of Appeals resolved petitioners’ claims on other 
+grounds, it “did not consider whether, even if a constitu­
+tional claim had been stated, a tort remedy should be 
+crafted under Bivens.” Id., at 121, n. 1 (Jones, J., concur­
+ring). Ten judges filed or joined five separate concurring
+opinions. Id., at 121–143. 
+This Court granted certiorari. 580 U. S. ___ (2016).  The 
+Court now vacates the judgment of the Court of Appeals 
+and remands for further proceedings. 
+The Court turns first to the Bivens question, which is 
+“antecedent” to the other questions presented.  Wood, 572 
+U. S., at ___ (slip op., at 11).  In Bivens, this Court “recog­
+nized for the first time an implied right of action for dam­
+ages against federal officers alleged to have violated a
+citizen’s constitutional rights.”  Correctional Services Corp.
+v. Malesko, 534 U. S. 61, 66 (2001).  A Bivens remedy is 
+not available, however, where there are “ ‘special factors
+counselling hesitation in the absence of affirmative action 
+by Congress.’ ” Carlson v. Green, 446 U. S. 14, 18 (1980) 
+(quoting Bivens, 403 U. S., at 396).  In the decision recently
+announced in Ziglar v. Abbasi, ante, p. ___, this Court 
+has clarified what constitutes a “special facto[r] counsel-
+ling hesitation.” See ante, at 12–14, 17–23.  “[T]he in­
+ 
+   5 Cite as: 582 U. S. ____ (2017) 
+Per Curiam
+quiry,” the Court explains, “must concentrate on whether 
+the Judiciary is well suited, absent congressional action or
+instruction, to consider and weigh the costs and benefits of
+allowing a damages action to proceed.” Ante, at 12. 
+The Court of Appeals here, of course, has not had the
+opportunity to consider how the reasoning and analysis in
+Abbasi may bear on this case. And the parties have not
+had the opportunity to brief and argue its significance.  In
+these circumstances, it is appropriate for the Court of
+Appeals, rather than this Court, to address the Bivens
+question in the first instance.  This Court, after all, is one 
+“ ‘of review, not of first view.’ ”  Expressions Hair Design v.
+Schneiderman, 581 U. S. ___, ___ (2017) (slip op., at 10) 
+(quoting Nautilus, Inc. v. Biosig Instruments, Inc., 572 
+U. S. ___, ___ (2014) (slip op., at 14)). 
+With respect to petitioners’ Fourth Amendment claim,
+the en banc Court of Appeals found it unnecessary to
+address the Bivens question because it concluded that 
+Hernández lacked any Fourth Amendment rights under
+the circumstances.  This approach—disposing of a Bivens
+claim by resolving the constitutional question, while as­
+suming the existence of a Bivens remedy—is appropriate 
+in many cases. This Court has taken that approach on
+occasion. See, e.g., Wood, supra, at ___ (slip op., at 11). 
+The Fourth Amendment question in this case, however, is
+sensitive and may have consequences that are far reach­
+ing. It would be imprudent for this Court to resolve that
+issue when, in light of the intervening guidance provided
+in Abbasi, doing so may be unnecessary to resolve this 
+particular case. 
+With respect to petitioners’ Fifth Amendment claim, the
+en banc Court of Appeals found it unnecessary to address 
+the Bivens question because it held that Mesa was entitled
+to qualified immunity.  In reaching that conclusion, the en
+banc Court of Appeals relied on the fact that Hernández
+was “an alien who had no significant voluntary connection
+  
+6 HERNANDEZ v. MESA
+Per Curiam
+to . . . the United States.”  785 F. 3d, at 120.  It is undis­
+puted, however, that Hernández’s nationality and the
+extent of his ties to the United States were unknown to
+Mesa at the time of the shooting. The en banc Court of 
+Appeals therefore erred in granting qualified immunity 
+based on those facts. 
+“The doctrine of qualified immunity shields officials
+from civil liability so long as their conduct ‘does not violate
+clearly established . . . constitutional rights of which a
+reasonable person would have known.’ ”  Mullenix v. Luna, 
+577 U. S. ___, ___ (2015) (per curiam) (slip op., at 4–5) 
+(quoting Pearson v. Callahan, 555 U. S. 223, 231 (2009)). 
+The “dispositive inquiry in determining whether a right is 
+clearly established is whether it would be clear to a rea­
+sonable officer that his conduct was unlawful in the situa­
+tion he confronted.” Saucier v. Katz, 533 U. S. 194, 202
+(2001). The qualified immunity analysis thus is limited to 
+“the facts that were knowable to the defendant officers” at
+the time they engaged in the conduct in question. White v.
+Pauly, 580 U. S. ___, ___ (2017) (per curiam) (slip op., at
+3). Facts an officer learns after the incident ends— 
+whether those facts would support granting immunity or
+denying it—are not relevant.
+Mesa and the Government contend that Mesa is entitled
+to qualified immunity even if Mesa was uncertain about
+Hernández’s nationality and his ties to the United States
+at the time of the shooting.  The Government also argues 
+that, in any event, petitioners’ claim is cognizable only
+under the Fourth Amendment, and not under the Fifth 
+Amendment. This Court declines to address these argu­
+ments in the first instance. The Court of Appeals may 
+address them, if necessary, on remand. 
+The facts alleged in the complaint depict a disturbing
+incident resulting in a heartbreaking loss of life.  Whether 
+petitioners may recover damages for that loss in this suit
+depends on questions that are best answered by the Court 
+7 Cite as: 582 U. S. ____ (2017) 
+Per Curiam
+of Appeals in the first instance.
+The judgment of the Court of Appeals is vacated, and
+the case is remanded for further proceedings consistent
+with this opinion.
+It is so ordered.
+ JUSTICE GORSUCH took no part in the consideration or 
+decision of this case.
+ 
+ 
+_________________
+_________________ 
+ 
+1 Cite as: 582 U. S. ____ (2017) 
+THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES 
+No. 15–118
+JESUS C. HERNANDEZ, ET AL., PETITIONERS v.JESUS MESA, JR., ET AL. ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+ 
+[June 26, 2017] JUSTICE THOMAS, dissenting. 
+When we granted certiorari in this case, we directed the
+parties to address, in addition to the questions presented 
+by petitioners, “[w]hether the claim in this case may be
+asserted under Bivens v. Six Unknown Fed. Narcotics 
+Agents, 403 U. S. 388 (1971).”  580 U. S. ___ (2016).  I 
+would answer that question, rather than remand for the 
+Court of Appeals to do so.  I continue to adhere to the view 
+that “Bivens and its progeny” should be limited “to the
+precise circumstances that they involved.”  Ziglar v. Ab-
+basi, ante, at 2 (THOMAS, J., concurring in part and con-
+curring in judgment) (internal quotation marks omitted).
+This case arises in circumstances that are meaningfully 
+different from those at issue in Bivens and its progeny.
+Most notably, this case involves cross-border conduct, and
+those cases did not. I would decline to extend Bivens and 
+would affirm the judgment of the Court of Appeals on that 
+basis.
+ 
+ 
+_________________
+_________________ 
+ 
+  
+1 Cite as: 582 U. S. ____ (2017) 
+BREYER, J., dissenting 
+SUPREME COURT OF THE UNITED STATES 
+No. 15–118
+JESUS C. HERNANDEZ, ET AL., PETITIONERS v.JESUS MESA, JR., ET AL. ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+ 
+[June 26, 2017] JUSTICE BREYER, with whom JUSTICE GINSBURG joins,
+dissenting. 
+The parents of Sergio Adrián Hernández Güereca
+brought this constitutional tort action against a United
+States Border Patrol agent, Jesus Mesa, Jr.  They claim
+that Mesa violated their son’s constitutional rights when
+Mesa shot and killed him on June 7, 2010.  Hernández and 
+some of his friends had been running back and forth
+across a Rio Grande River culvert that straddles the bor­
+der between the United States and Mexico. When Mesa
+shot him, Hernández had returned to, and was on, the 
+Mexican side of the culvert. 
+The Court of Appeals, affirming the District Court, held
+(among other things) that Hernández had no Fourth
+Amendment rights because he was not a citizen of the
+United States, he was “on Mexican soil at the time he was
+shot,” and he “had no ‘significant voluntary connection’ to 
+the United States. ” Hernandez v. United States, 785 F. 3d
+117, 119 (2015) (per curiam) (quoting United States v.
+Verdugo-Urquidez, 494 U. S. 259, 271 (1990)).  I would 
+reverse the Court of Appeals’ Fourth Amendment holding. 
+And, in my view, that reversal would ordinarily bring with
+it the right to bring an action for damages under Bivens v.
+Six Unknown Fed. Narcotics Agents, 403 U. S. 388 (1971).
+See Wood v. Moss, 572 U. S. ___, ___ (2014) (slip op., at 11) 
+  
+2 HERNANDEZ v. MESA
+BREYER, J., dissenting 
+(Bivens actions lie for Fourth Amendment violations); 
+Tennessee v. Garner, 471 U. S. 1, 11 (1985) (officer’s appli­
+cation of lethal force when there is no immediate threat to
+self or others violates the Fourth Amendment).  See also
+Ziglar v. Abbasi, ante, p. 1 (BREYER, J., dissenting).
+I recognize that Hernández was on the Mexican side of 
+the culvert when he was shot.  But, we have written in a 
+case involving the suspension of habeas corpus that “de
+jure sovereignty” is not and never has been “the only 
+relevant consideration in determining the geographic
+reach of the Constitution.”  Boumediene v. Bush, 553 U. S.
+723, 764 (2008). We have added that our precedents make 
+clear that “questions of extraterritoriality turn on objec­
+tive factors and practical concerns, not formalism.”  Ibid.; 
+see also id., at 759–762.  Those factors and concerns here 
+convince me that Hernández was protected by the Fourth
+Amendment. 
+First, the defendant is a federal officer.  He knowingly
+shot from United States territory into the culvert.  He did 
+not know at the time whether he was shooting at a citizen
+of the United States or Mexico, nor has he asserted that he
+knew on which side of the boundary line the bullet would 
+land. 
+Second, the culvert itself has special border-related
+physical features. It does not itself contain any physical
+features of a border.  Rather, fences and border crossing 
+posts are not in the culvert itself but lie on either side.
+Those of Mexico are on the southern side of the culvert; 
+those of the United States are on the northern side.  The
+culvert (where the shooting took place) lies between the 
+two fences, and consists of a concrete-lined empty space 
+that is typically 270 feet wide.
+Third, history makes clear that nontechnically speaking,
+the culvert is the border; and more technically speaking, it
+is at the least a special border-related area (sometimes
+known as a “limitrophe” area, see infra, at 4).  Originally,
+ 
+ 
+ 
+        3 Cite as: 582 U. S. ____ (2017) 
+BREYER, J., dissenting 
+the 1848 Treaty of Guadalupe Hidalgo provided that the
+boundary should run “up the middle” of the Rio Grande 
+River “following the deepest channel.”  See Art. V, July 4,
+1848, 9 Stat. 926. It also provided that “navigation . . .
+shall be free . . . to the vessels and citizens of both coun­
+tries.” Art. VII, id., at 928. Subsequently the river
+jumped its banks, setting a new course, and provoking 
+serious disputes about the border’s location.  See S. Liss, A 
+Century of Disagreement: The Chamizal Conflict 1864–
+1964, p. 15 (1965) (the river’s “ravages . . . irreparably 
+destroyed any semblance of a discernable United States
+boundary line in the Ciudad Juarez-El Paso area”). In the 
+1960’s, however, the United States and Mexico negotiated
+a new boundary. The two nations working together would
+“relocat[e]” the river channel.  Convention for the Solution
+of the Problem of the Chamizal, Art. 2, Aug. 29, 1963, 15
+U. S. T. 23, T. I. A. S. No. 5515 (Chamizal Convention).
+They would jointly bear the costs of doing so; and they
+would charge a bilateral commission with “relocation of 
+the river channel . . . and the maintenance, preservation
+and improvement of the new channel.”  Art. 9, id., at 26. 
+When final construction of the new channel concluded, 
+President Johnson visited the site to celebrate the “chan­
+nels between men, bridges between cultures” created
+by the countries’ joint effort.  Kramer, A Border Crosses, 
+The New Yorker, Sept. 20, 2014, online at http://www.
+newyorker.com/news/news-desk/moving-mexican-border 
+(all internet materials as last visited June 23, 2017); see 
+also Appendix, fig. 2, infra (photograph of President and 
+Mrs. Johnson touring the culvert).  That “channel” is the 
+culvert now before us. 
+Fourth, a jointly organized international boundary 
+commission built, and now administers, the culvert.  Once 
+created, the Commission arranged for surveys, acquired
+rights of way, and built and paved the massive culvert 
+structure.  See Appendix, fig. 1, infra (typical cross-section
+ 
+ 
+4 HERNANDEZ v. MESA
+BREYER, J., dissenting 
+of the proposed concrete “culvert”); see also International
+Boundary and Water Commission, United States and 
+Mexico, Preliminary Plan (July 25, 1963), Annex to 
+Chamizal Convention, 15 U. S. T., following p. 36.  The 
+United States contributed approximately $45 million of 
+the total cost.  See Compliance With Convention on the
+Chamizal, S. Rep. No. 868, 88th Cong., 2d Sess., 2 (1963); 
+Act To Facilitate Compliance With the Convention Be­
+tween United States and United Mexican States, §8, 78 
+Stat. 186.  The United States and Mexico have jointly 
+agreed to maintain the Rio Grande and jointly to maintain 
+the “limitrophe” areas. Treaty To Resolve Pending 
+Boundary Differences and Maintain the Rio Grande and 
+Colorado River as the International Boundary, Art. IV, 
+Nov. 23, 1970, 23 U. S. T. 390, T. I. A. S. No. 7313 (Rio 
+Grande and Colorado River Treaty).  Today an Interna­
+tional Boundary and Water Commission, with representa­
+tives of both nations, exercises its “jurisdiction” over “limi­
+trophe parts of the Rio Grande.” Treaty of Feb. 3, 1944, 
+Art. 2, 59 Stat. 1224. 
+Fifth, international law recognizes special duties and 
+obligations that nations may have in respect to “limi­
+trophe” areas. Traditionally, boundaries consisted of
+rivers, mountain ranges, and other areas that themselves 
+had depth as well as length. Lord Curzon of Kedleston,
+Frontiers 12–13 (2d ed. 1908). It was not until the late
+19th century that effective national boundaries came to 
+consist of an engineer’s “imaginary line,” perhaps thou­
+sands of miles long, but having “no width.”  Reeves, Inter­
+national Boundaries, 38 Am. J. Int’l L. 533, 544 (1944); see 
+also 1 Oppenheim’s International Law 661, n. 1 (R. Jen­
+nings & A. Watts eds., 9th ed. 1992).  Modern precision
+may help avoid conflicts among nations, see, e.g., Rio
+Grande and Colorado River Treaty, preamble, 23 U. S. T.,
+at 373, but it has also produced boundary areas—of the 
+sort we have described—which are “ ‘subject to a special 
+5 Cite as: 582 U. S. ____ (2017) 
+BREYER, J., dissenting 
+legal, political and economic regime of internal and inter­
+national law,’ ” Andrassy, Les Relations Internationales de
+Voisinage, in The Hague Academy of Int’l Law, 1951 
+Recuiel des Cours 131 (quoting Paul de Lapradelle, La
+Frontiere 14 (1928)). Those areas are subject to a special 
+obligation of co-operation and good neighborliness, V.
+Lowe, International Law 151 (2007) (describing the “re­
+gime of voisinage,” which includes “jointly administered 
+infrastructure facilities . . . co-operation between neighbor­
+ing police forces . . . bilingual road signs, . . . shared access
+to common resources,” and the like); cf. United Nations 
+Convention on the Law of the Sea, Art. 111(8), Dec. 10,
+1982, 1833 U. N. T. S. 396 (requiring compensation for 
+loss arising from the erroneous exercise of a sovereign’s 
+right of hot pursuit), as well as express duties of joint
+administration that adjoining states undertake by treaty. 
+Sixth, not to apply the Fourth Amendment to the culvert
+would produce serious anomalies.  Cf. Verdugo-Urquidez, 
+494 U. S., at 278 (KENNEDY, J., concurring). The Court of 
+Appeals’ approach creates a protective difference depend­
+ing upon whether Hernández had been hit just before or 
+just after he crossed an imaginary mathematical border­
+line running through the culvert’s middle.  But nothing 
+else would have changed.  The behavior of the United
+States Border Patrol agent, along with every other rele­
+vant feature of this case, would have remained the same. 
+Given the near irrelevance of that midculvert line (as
+compared with the rest of the culvert) for most border-
+related purposes, as well as almost any other purpose, 
+that result would seem anomalous.
+Moreover, the anomalies would multiply. Numerous 
+bridges span the culvert, linking El Paso and Ciudad
+Juarez. See Chamizal Convention, Arts. 8–10, 15 U. S. T.,
+at 25–26. “Across this boundary thousands of Americans 
+and Mexicans pass daily, as casually as one living inland 
+crosses a county line.” Liss, supra, at 4; Semuels, Cross­
+ 
+ 
+  
+6 HERNANDEZ v. MESA
+BREYER, J., dissenting 
+ing the Mexican-American Border, Every Day, The Atlan­
+tic, Jan. 25, 2016, online at https://www.theatlantic.com/
+business/archive/2016/01/crossing-the-mexican-american­
+border-every-day/426678/; Brief for Border Scholars as
+Amici Curiae 21–22 (Fifty-five percent of households in 
+the sister cities cross the border to comparison shop for 
+everyday goods and Mexican shoppers spend $445 million
+each year in El Paso businesses).  It does not make much 
+sense to distinguish for Fourth Amendment purposes 
+among these many thousands of individuals on the basis
+of an invisible line of which none of them is aware.
+These six sets of considerations taken together provide
+more than enough reason for treating the entire culvert as 
+having sufficient involvement with, and connection to, the 
+United States to subject the culvert to Fourth Amendment
+protections. I would consequently conclude that the
+Fourth Amendment applies. 
+Finally, I note that neither court below reached the 
+question whether Bivens applies to this case, likely be­
+cause Mesa did not move to dismiss on that basis.  I would 
+decide the Fourth Amendment question before us and 
+remand the case for consideration of the Bivens and quali­
+fied immunity questions.  See Ziglar v. Abbasi, ante, p. 1;
+but see ante, p. 1 (BREYER, J., dissenting).
+For these reasons, with respect, I dissent.
+BREYER, J., dissenting7 Cite as: 582 U. S. ____ (2017) Appendix to opinion of BREYER, J. APPENDIX
+ 
+Figure 1.  International Boundary and Water Commis­
+sion, United States and Mexico, Relocation of Rio Grande, 
+El Paso, Texas–Ciudad Juarez, Chihuahua, Preliminary 
+Plan (July 25, 1963), Annex to Chamizal Convention, 15 
+U. S. T., following p. 36, T. I. A. S. No. 5515. 
+Figure 2. President Lyndon Johnson and Mrs. Lady Bird 
+Johnson view the new channel. Associated Press, Dec. 13, 
+1968.
+              
