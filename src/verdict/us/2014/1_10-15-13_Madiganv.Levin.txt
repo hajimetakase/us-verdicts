@@ -1,0 +1,34 @@
+
+SUMMARY:
+id:1
+date:10/15/13
+docket:12-872
+name:Madigan v. Levin
+summary:R001; No. 12-872; Certiorari dismissed as improvidently granted.
+revised: 
+J.:PC
+Pt.:571/1
+url:https://www.supremecourt.gov/opinions/13pdf/12-872_pm02.pdf
+
+VERDICT:
+_________________
+_________________1 (Slip Opinion) Cite as: 571 U. S. ____ (2013) 
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 12–872
+LISA MADIGAN, ET AL., PETITIONERS v. HARVEY N.
+ 
+LEVIN
+ 
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+ 
+[October 15, 2013] PER CURIAM. 
+The writ of certiorari is dismissed as improvidently 
+granted.
+It is so ordered.
+              
