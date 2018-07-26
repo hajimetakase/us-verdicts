@@ -1,0 +1,2011 @@
+
+SUMMARY:
+id:21
+date:2/24/15
+docket:126, Orig.
+name:Kansas v. Nebraska
+summary: The Special Master’s determination that Nebraska violated the Republican River Compact and the 2002 Final Settlement Stipulation and his recommendation that Nebraska’s requested modification of the 2002 agreement be granted are adopted; the parties’ exceptions to the Special Master’s Report are overruled.
+revised:
+J.:EK
+Pt.:574/2
+url:https://www.supremecourt.gov/opinions/14pdf/126orig_olq2.pdf
+
+VERDICT:
+(Slip Opinion) OCTOBER TERM, 2014 1
+Syllabus 
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is 
+being done in connection with this case, at the time the opinion is issued. 
+The syllabus constitutes no part of the opinion of the Court but has been 
+prepared by the Reporter of Decisions for the convenience of the reader. 
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337. 
+SUPREME COURT OF THE UNITED STATES 
+Syllabus 
+KANSAS v. NEBRASKA ET AL. 
+ON EXCEPTIONS TO REPORT OF SPECIAL MASTER 
+No. 126, Orig. Argued October 14, 2014—Decided February 24, 2015 
+In 1943, Congress approved the Republican River Compact, an agree-
+ment between Kansas, Nebraska, and Colorado to apportion the “vir-
+gin water originating in” the Republican River Basin.  57 Stat. 87.  In 
+1998, Kansas filed an original action in this Court contending that 
+Nebraska’s increased groundwater pumping was subject to regula-
+tion by the Compact to the extent that it depleted stream flow in the 
+Basin.  This Court agreed.  Ensuing negotiations resulted in the 2002 
+Final Settlement Stipulation (Settlement), which established mecha-
+nisms to accurately measure water and promote compliance with the 
+Compact.  The Settlement identified the Accounting Procedures, a 
+technical appendix, as the tool by which the States would measure 
+stream flow depletion, and thus consumption, due to groundwater 
+pumping.  The Settlement also reaffirmed that “imported water”—
+that is, water brought into the Basin by human activity—would not 
+count toward a State’s consumption.  Again, the Accounting Proce-
+dures were to measure, so as to exclude, that water flow. In 2007, following the first post-Settlement accounting period, 
+Kansas petitioned this Court for monetary and injunctive relief, 
+claiming that Nebraska had substantially exceeded its water alloca-
+tion.  Nebraska responded that the Accounting Procedures improper-
+ly charged the State for using imported water and requested that the 
+Accounting Procedures be modified accordingly.  The Court appointed 
+a Special Master.  His report concludes that Nebraska “knowingly 
+failed” to comply with the Compact, recommends that Nebraska dis-
+gorge a portion of its gains in addition to paying damages for Kan-
+sas’s loss, and recommends denying Kansas’s request for an injunc-
+tion.  In addition, the report recommends reforming the Accounting 
+Procedures.  The parties have filed exceptions. 
+Held:  
+2 KANSAS v. NEBRASKA 
+Syllabus1. Proceedings under this Court’s original jurisdiction are “basically 
+equitable in nature,” Ohio v. Kentucky, 410 U. S. 641, 648, and in ex-
+ercising that jurisdiction over a controversy between two States, the 
+Court may “mould the process [to] best promote the purposes of jus-
+tice.” Kentucky v. Dennison, 24 How. 66, 98.  Where the States have 
+negotiated a Compact, the Court is confined to declaring rights under 
+and enforcing its terms.  But within those bounds, the Court may in-
+voke equitable principles to devise “fair … solution[s]” to compact vio-
+lations.  Texas v. New Mexico, 482 U. S. 124, 134.  And where Con-
+gress has approved the Compact so that it counts as federal law, see 
+Cuyler v. Adams, 449 U. S. 433, 438, the Court may, consistent with 
+the Compact’s express terms, exercise its full authority to remedy 
+violations of, and promote compliance with, the agreement, see Porter 
+v. Warner Holding Co., 328 U. S. 395, 398.  Pp. 6–9.2. The Special Master’s determination that Nebraska “knowingly 
+failed” to comply with its Settlement obligations, his recommendation 
+that Nebraska pay Kansas an additional $1.8 million in disgorge-
+ment, and his recommendation that Kansas’s request for injunctive 
+relief be denied are all adopted.  The parties’ exceptions are over-
+ruled.  Pp. 9–20. (a) Nebraska “knowingly failed” to comply with its Settlement 
+obligations, and disgorgement is an appropriate remedy for Nebras-
+ka’s breach.  Pp. 10–17.  (i) As the Special Master found, Nebraska failed to put ade-
+quate compliance mechanisms in place in the face of a known sub-
+stantial risk that it would violate Kansas’s rights.  Nebraska’s argu-
+ment that it could not have anticipated unprecedented drought 
+conditions fails, because its efforts to comply would have been inade-
+quate absent the luckiest of circumstances.  Nor can the State find 
+refuge in the Compact’s retrospective compliance calculation meth-
+ods, because it had been warned each year leading up to the final 
+compliance check that it had exceeded its allotment.  The Court 
+therefore agrees with the Master that Nebraska “knowingly exposed 
+Kansas to a substantial risk” of receiving less water than it was enti-
+tled to under the Compact.  Report 130.  In other words, Nebraska 
+recklessly gambled with Kansas’s rights.  Pp. 10–14.  (ii) Because Nebraska’s benefit from its breach exceeded the 
+$3.7 million loss Kansas suffered, the Special Master recommended 
+that Nebraska disgorge part of its additional gain. Nebraska con-
+tends that disgorgement is improper because it did not act “deliber-
+ately,” which it argues is required for disgorgement in a private con-
+tract suit.  But disgorgement is appropriate where one State has 
+recklessly gambled with another State’s rights to a scarce natural re-
+source. This Court has said that awarding actual damages in a com-
+ Cite as: 574 U. S. ____ (2015) 3
+Syllabus 
+pact case may be inadequate to deter an upstream State from ignor-
+ing its obligations where it is advantageous to do so. Texas v. New 
+Mexico, 482 U. S., at 132. Here, Nebraska took full advantage of its 
+favorable geographic position. And because of the higher value of wa-
+ter on Nebraska’s farmland than on Kansas’s, Nebraska could take 
+Kansas’s water, pay damages, and still benefit. This Court’s remedial 
+authority extends to providing a remedy capable of stabilizing the 
+Compact and deterring future breaches, and a disgorgement award 
+appropriately does so here. Pp. 14–17. (b) Contrary to Kansas’s contentions, the Master’s partial dis-
+gorgement award is sufficient to achieve those goals.  The “flexibility 
+inherent in equitable remedies,” Brown v. Plata, 563 U. S. ___, ___, 
+allows the Court to order partial disgorgement if appropriate to the 
+facts of the particular case, cf. Kansas v. Colorado, 533 U. S. 1, 14.  
+The Special Master properly took into account Nebraska’s incentives, 
+past behavior, and especially its more recent successful compliance 
+efforts to determine that a small disgorgement award suffices.  For 
+related reasons, Kansas has failed to demonstrate a “cognizable dan-
+ger of recurrent violation” necessary to obtain an injunction.  United 
+States v. W. T. Grant Co., 345 U. S. 629, 633.  Pp. 17–20.3. The Special Master’s recommendation to amend the Accounting 
+Procedures so that they no longer charge Nebraska for imported wa-
+ter is adopted, and Kansas’s exception is overruled.  As the Special 
+Master found, in dry conditions, the Accounting Procedures improp-
+erly treat Nebraska’s use of imported water as if it were use of Basin 
+water.  Nothing suggests that anyone seriously thought the Account-
+ing Procedures would systematically err in this way.  Rather, the 
+Procedures’ designers assumed that they had succeeded in their goal 
+to implement a strict demarcation between virgin and imported wa-
+ter.Kansas argues that in spite of these failures, the States must be 
+held to the bargain they struck.  That is the ordinary rule.  But two 
+special considerations warrant conforming the Accounting Proce-
+dures to the Compact and the Settlement.  First, the remedy is nec-
+essary to prevent serious inaccuracies from distorting the States’ in-
+tended apportionment of interstate waters, as reflected in those 
+documents.  Doing so is consistent with past instances where this 
+Court opted to modify a technical agreement to correct material er-
+rors in the way it operates and thus align it with the compacting 
+States’ intended apportionment.  Second, this remedy is required to 
+avert an outright breach of the Compact—and so a violation of feder-
+al law.  As written, the Accounting Procedures go beyond the Com-
+pact’s boundaries and deprive Nebraska of its compact rights.  The 
+Master’s proposed “5-run formula” solves this problem by excluding 
+4 KANSAS v. NEBRASKA 
+Syllabus 
+imported water from the calculation of each State’s consumption.  
+Given Kansas’s failure despite ample opportunity to devise another 
+solution or to demonstrate flaws in this one, as well the long and con-
+tentious history of this case that casts doubt on the States’ ability to 
+come to an agreement themselves, the Court adopts the Master’s so-
+lution.  Pp. 20–28. 
+Exceptions to Special Master’s Report overruled, and Master’s recom-
+mendations adopted.KAGAN, J., delivered the opinion of the Court, in which KENNEDY, 
+GINSBURG, BREYER, and SOTOMAYOR, JJ., joined, and in which ROBERTS, 
+C. J., joined as to Parts I and III.  ROBERTS, C. J., and SCALIA, J., filed 
+opinions concurring in part and dissenting in part.  THOMAS, J., filed an 
+opinion concurring in part and dissenting in part, in which SCALIA and 
+ALITO, JJ., joined, and in which ROBERTS, C. J., joined as to Part III.
+  
+    
+_________________ 
+_________________
+   
+1 Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 126, Orig. 
+STATE OF KANSAS, PLAINTIFF v. STATES OF NEBRASKA AND COLORADO ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+[February 24, 2015]
+ JUSTICE KAGAN delivered the opinion of the Court. 
+For the second time in little more than a decade, Kansas 
+and Nebraska ask this Court to settle a dispute over the 
+States’ rights to the waters of the Republican River Basin,
+as set out in an interstate compact. The first round of
+litigation ended with a settlement agreement designed to
+elaborate on, and promote future compliance with, the 
+Compact’s terms. The States now bring new claims 
+against each other arising from the implementation of
+that settlement. Kansas seeks exceptional relief—both
+partial disgorgement of gains and an injunction—for
+Nebraska’s conceded overconsumption of water.  For its 
+part, Nebraska requests amendment of a technical appen­
+dix to the settlement, so that allocations of water will 
+faithfully reflect the parties’ intent as expressed in both 
+the body of that agreement and the Compact itself. We
+referred the case to a Special Master and now accept his 
+recommendations as to appropriate equitable remedies: for 
+Kansas, partial disgorgement but no injunction; and for 
+Nebraska, reform of the appendix. 
+I 
+The Republican River originates in Colorado; crosses the
+ 
+  
+2 KANSAS v. NEBRASKA
+Opinion of the Court 
+northwestern corner of Kansas into Nebraska; flows
+through much of southwestern Nebraska; and finally cuts 
+back into northern Kansas. Along with its many tributar­
+ies, the river drains a 24,900-square-mile watershed, 
+called the Republican River Basin.  The Basin contains 
+substantial farmland, producing (among other things)
+wheat and corn. 
+During the Dust Bowl of the 1930’s, the Republican
+River Basin experienced an extended drought, interrupted
+once by a deadly flood.  In response, the Federal Govern­
+ment proposed constructing reservoirs in the Basin to 
+control flooding, as well as undertaking an array of irriga­
+tion projects to disperse the stored water.  But the Gov­
+ernment insisted that the three States of the Basin first
+agree to an allocation of its water resources.  As a result of 
+that prodding, the States negotiated and ratified the 
+Republican River Compact; and in 1943, as required under
+the Constitution, Art. I, §10, cl. 3, Congress approved that
+agreement. By act of Congress, the Compact thus became
+federal law. See Act of May 26, 1943, ch. 104, 57 Stat. 86.
+The Compact apportions among the three States the 
+“virgin water supply originating in”—and, as we will later 
+discuss, originating only in—the Republican River Basin.
+Compact Art. III; see infra, at 20–28. “Virgin water sup­
+ply,” as used in the Compact, means “the water supply
+within the Basin,” in both the River and its tributaries,
+“undepleted by the activities of man.”  Compact Art. II. 
+The Compact gives each State a set share of that supply—
+roughly, 49% to Nebraska, 40% to Kansas, and 11% to 
+Colorado—for any “beneficial consumptive use.”  Id., 
+Art. IV; see Art. II (defining that term to mean “that use
+by which the water supply of the Basin is consumed 
+through the activities of man”).  In addition, the Compact
+charges the chief water official of each State with respon­
+sibility to jointly administer the agreement. See id.,
+Art. IX.  Pursuant to that provision, the States created the
+  
+  
+3 Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+Republican River Compact Administration (RRCA).  The
+RRCA’s chief task is to calculate the Basin’s annual virgin
+water supply by measuring stream flow throughout the 
+area, and to determine (retrospectively) whether each 
+State’s use of that water has stayed within its allocation.
+All was smooth sailing for decades, until Kansas com­
+plained to this Court about Nebraska’s increased pumping 
+of groundwater, resulting from that State’s construction of
+“thousands of wells hydraulically connected to the Repub­
+lican River and its tributaries.”  Bill of Complaint, O. T. 
+1997, No. 126, Orig., p. 5 (May 26, 1998).  Kansas con­
+tended that such activity was subject to the Compact: To
+the extent groundwater pumping depleted stream flow in
+the Basin, it counted against the pumping State’s annual 
+allotment of water.1  Nebraska maintained, to the con­
+trary, that groundwater pumping fell outside the Com­
+pact’s scope, even if that activity diminished stream flow
+in the area.  A Special Master we appointed favored Kan­
+sas’s interpretation of the Compact; we summarily agreed,
+and recommitted the case to him for further proceedings. 
+See Kansas v. Nebraska, 530 U. S. 1272 (2000).  The 
+States then entered into negotiations, aimed primarily at
+determining how best to measure, and reflect in Compact 
+accounting, the depletion of the Basin’s stream flow due to
+groundwater pumping.  During those discussions, the
+States also addressed a range of other matters affecting 
+Compact administration.  The talks bore fruit in 2002, 
+when the States signed the Final Settlement Stipulation
+(Settlement).
+The Settlement established detailed mechanisms to 
+promote compliance with the Compact’s terms.  The States 
+—————— 
+1 As we will later discuss, groundwater pumping does not diminish 
+stream flow (and thus the Basin’s “virgin water supply”) at a 1-to-1
+ratio. See Report of Special Master 19 (Report); infra, at 21–22.  In 
+other words, a State can pump a bucketful of groundwater without 
+reducing stream flow by the same amount. 
+4 KANSAS v. NEBRASKA
+Opinion of the Court 
+agreed that the Settlement was not “intended to, nor could 
+[it], change [their] respective rights and obligations under 
+the Compact.” Settlement §I(D). Rather, the agreement
+aimed to accurately measure the supply and use of the
+Basin’s water, and to assist the States in staying within 
+their prescribed limits. To smooth out year-to-year fluctu­
+ations and otherwise facilitate compliance, the Settlement 
+based all Compact accounting on 5-year running averages, 
+reduced to 2-year averages in “water-short” periods.  Id.,
+§§IV(D), V(B). That change gave each State a chance to
+compensate for one (or more) year’s overuse with another 
+(or more) year’s underuse before exceeding its allocation.
+The Settlement further provided, in line with this Court’s
+decision, that groundwater pumping would count as part 
+of a State’s consumption to the extent it depleted the
+Basin’s stream flow.  An appendix to the agreement called 
+the “Accounting Procedures” described how a later-
+developed “Groundwater Model” (essentially, a mass of
+computer code) would perform those computations.  Id., 
+App. C; id., App. J1. And finally, the Settlement made
+clear, in accordance with the Compact, that a State’s use
+of “imported water”—that is, water farmers bring into the 
+area (usually for irrigation) that eventually seeps into the 
+Republican River—would not count toward the State’s 
+allocation, because it did not originate in the Basin.  Id.,
+§§II, IV(F).  Once again, the Settlement identified the
+Accounting Procedures and Groundwater Model as the 
+tools to calculate (so as to exclude) that consumption. 
+But there were more rapids ahead: By 2007, Kansas and 
+Nebraska each had complaints about how the Settlement 
+was working.  Kansas protested that in the 2005–2006
+accounting period—the first for which the Settlement held 
+States responsible—Nebraska had substantially exceeded 
+its allocation of water. Nebraska, for its part, maintained
+that the Accounting Procedures and Groundwater Model
+were charging the State for use of imported water— 
+5 Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+specifically, for water originating in the Platte River Ba­
+sin. The States brought those disputes to the RRCA and
+then to non-binding arbitration, in accordance with the 
+Settlement’s dispute resolution provisions.  After failing to
+resolve the disagreements in those forums, Kansas sought 
+redress in this Court, petitioning for both monetary and
+injunctive relief.  We referred the case to a Special Master
+to consider Kansas’s claims.  See 563 U. S. ___ (2011). In 
+that proceeding, Nebraska asserted a counterclaim re­
+questing a modification of the Accounting Procedures to
+ensure that its use of Platte River water would not count
+toward its Compact allocation. 
+After two years of conducting hearings, receiving evi­
+dence, and entertaining legal arguments, the Special
+Master issued his report and recommendations.  The 
+Master concluded that Nebraska had “knowingly failed” to 
+comply with the Compact in the 2005–2006 accounting
+period, by consuming 70,869 acre-feet of water in excess of
+its prescribed share.2  Report 112. To remedy that breach,
+the Master proposed awarding Kansas $3.7 million for its
+loss, and another $1.8 million in partial disgorgement of
+Nebraska’s still greater gains.  The Master, however, 
+thought that an injunction against Nebraska was not 
+warranted. In addition, the Master recommended reform­
+ing the Accounting Procedures in line with Nebraska’s
+request, to ensure that the State would not be charged 
+with using Platte River water.
+Kansas and Nebraska each filed exceptions in this Court 
+to parts of the Special Master’s report.3  Nebraska objects
+—————— 
+2 An acre-foot of water is pretty much what it sounds like.  If you took 
+an acre of land and covered it evenly with water one foot deep, you 
+would have an acre-foot of water. 
+3 Colorado has also played a minor part in this dispute, and in this 
+Court it filed a brief reiterating one of Nebraska’s exceptions.  Because 
+Kansas and Nebraska are the primary antagonists here, we will refer 
+to that claim only as Nebraska’s.  From here on in, Colorado drops off
+ 
+   
+6 KANSAS v. NEBRASKA
+Opinion of the Court 
+to the Master’s finding of a “knowing” breach and his call 
+for partial disgorgement of its gains. Kansas asserts that 
+the Master should have recommended both a larger dis­
+gorgement award and injunctive relief; the State also 
+objects to his proposed change to the Accounting Proce­
+dures. In reviewing those claims, this Court gives the
+Special Master’s factual findings “respect and a tacit
+presumption of correctness.” Colorado v. New Mexico, 467
+U. S. 310, 317 (1984).  But we conduct an “independent 
+review of the record,” and assume “the ultimate responsi­
+bility for deciding” all matters. Ibid. Having carried out
+that careful review, we now overrule all exceptions and 
+adopt the Master’s recommendations. 
+II
+The Constitution gives this Court original jurisdiction to
+hear suits between the States. See Art. III, §2.  Proceed­
+ings under that grant of jurisdiction are “basically equi­
+table in nature.”  Ohio v. Kentucky, 410 U. S. 641, 648
+(1973). When the Court exercises its original jurisdiction
+over a controversy between two States, it serves “as a 
+substitute for the diplomatic settlement of controversies 
+between sovereigns and a possible resort to force.”  North
+Dakota v. Minnesota, 263 U. S. 365, 372–373 (1923).  That 
+role significantly “differ[s] from” the one the Court under­
+takes “in suits between private parties.” Id., at 372; see 
+Frankfurter & Landis, The Compact Clause of the Consti­
+tution—A Study in Interstate Adjustments, 34 Yale L. J.
+685, 705 (1925) (When a “controversy concerns two States
+we are at once in a world wholly different from that of a
+law-suit between John Doe and Richard Roe over the 
+metes and bounds of Blackacre”). In this singular sphere,
+“the court may regulate and mould the process it uses in 
+such a manner as in its judgment will best promote the 
+—————— 
+the map (so to speak).
+  
+  
+7 Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+purposes of justice.” Kentucky v. Dennison, 24 How. 66, 98
+(1861).
+Two particular features of this interstate controversy
+further distinguish it from a run-of-the-mill private suit
+and highlight the essentially equitable character of our 
+charge. The first relates to the subject matter of the Com­
+pact and Settlement: rights to an interstate waterway.
+The second concerns the Compact’s status as not just an
+agreement, but a federal law. Before proceeding to the
+merits of this dispute, we say a few words about each. 
+This Court has recognized for more than a century its
+inherent authority, as part of the Constitution’s grant of 
+original jurisdiction, to equitably apportion interstate 
+streams between States.  In Kansas v. Colorado, 185 U. S.
+125, 145 (1902), we confronted a simple consequence of 
+geography: An upstream State can appropriate all water 
+from a river, thus “wholly depriv[ing]” a downstream State
+“of the benefit of water” that “by nature” would flow into
+its territory.  In such a circumstance, the downstream
+State lacks the sovereign’s usual power to respond—the 
+capacity to “make war[,] . . . grant letters of marque and
+reprisal,” or even enter into agreements without the con­
+sent of Congress. Id., at 143 (internal quotation marks 
+omitted). “Bound hand and foot by the prohibitions of the 
+Constitution, . . . a resort to the judicial power is the only
+means left” for stopping an inequitable taking of water.
+Id., at 144 (quoting Rhode Island v. Massachusetts, 12 Pet.
+657, 726 (1838)).
+This Court’s authority to apportion interstate streams 
+encourages States to enter into compacts with each other. 
+When the division of water is not “left to the pleasure” of 
+the upstream State, but States instead “know[] that some
+tribunal can decide on the right,” then “controversies will
+[probably] be settled by compact.”  Kansas v. Colorado, 
+185 U. S., at 144.  And that, of course, is what happened 
+here: Kansas and Nebraska negotiated a compact to divide
+  
+8 KANSAS v. NEBRASKA
+Opinion of the Court 
+the waters of the Republican River and its tributaries.
+Our role thus shifts: It is now to declare rights under the 
+Compact and enforce its terms.  See Texas v. New Mexico, 
+462 U. S. 554, 567 (1983).
+But in doing so, we remain aware that the States bar­
+gained for those rights in the shadow of our equitable 
+apportionment power—that is, our capacity to prevent one 
+State from taking advantage of another.  Each State’s 
+“right to invoke the original jurisdiction of this Court [is]
+an important part of the context” in which any compact is
+made. Id., at 569.  And it is “difficult to conceive” that a
+downstream State “would trade away its right” to our 
+equitable apportionment if, under such an agreement, an
+upstream State could avoid its obligations or otherwise
+continue overreaching. Ibid. Accordingly, our enforce­
+ment authority includes the ability to provide the reme­
+dies necessary to prevent abuse.  We may invoke equitable 
+principles, so long as consistent with the compact itself, to
+devise “fair . . . solution[s]” to the state-parties’ disputes
+and provide effective relief for their violations.  Texas v. 
+New Mexico, 482 U. S. 124, 134 (1987) (supplying an “ad­
+ditional enforcement mechanism” to ensure an upstream 
+State’s compliance with a compact).4 
+And that remedial authority gains still greater force
+because the Compact, having received Congress’s blessing,
+counts as federal law. See Cuyler v. Adams, 449 U. S. 433,
+438 (1981) (“[C]ongressional consent transforms an inter­
+state compact . . . into a law of the United States”).  Of 
+course, that legal status underscores a limit on our en­
+forcement power: We may not “order relief inconsistent
+with [a compact’s] express terms.”  Texas v. New Mexico, 
+—————— 
+4 JUSTICE THOMAS misdescribes this aspect of our decision. See post,
+at 3, 15 (opinion concurring in part and dissenting in part) (hereinafter
+the dissent). Far from claiming the power to alter a compact to fit our 
+own views of fairness, we insist only upon broad remedial authority to
+enforce the Compact’s terms and deter future violations. 
+  
+9 Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+462 U. S., at 564.  But within those limits, the Court may 
+exercise its full authority to remedy violations of and
+promote compliance with the agreement, so as to give
+complete effect to public law.  As we have previously put 
+the point: When federal law is at issue and “the public
+interest is involved,” a federal court’s “equitable powers 
+assume an even broader and more flexible character than
+when only a private controversy is at stake.”  Porter v.
+Warner Holding Co., 328 U. S. 395, 398 (1946); see Virgin-
+ian R. Co. v. Railway Employees, 300 U. S. 515, 552 (1937) 
+(“Courts of equity may, and frequently do, go much far­
+ther” to give “relief in furtherance of the public interest
+than they are accustomed to go when only private inter­
+ests are involved”).5  In exercising our jurisdiction, we may
+“mould each decree to the necessities of the particular 
+case” and “accord full justice” to all parties. Porter, 328
+U. S., at 398 (internal quotation marks omitted); see Ken-
+tucky v. Dennison, 65 U. S., at 98.  These principles inform
+our consideration of the dispute before us.
+III
+We first address Nebraska’s breach of the Compact and
+Settlement and the remedies appropriate to that violation. 
+Both parties assent to the Special Master’s finding that in 
+—————— 
+5 The dissent objects that these precedents do not apply to “water
+disputes between States” because such clashes involve “sovereign 
+rights.” See post, at 4–5. But in making that claim, the dissent ignores
+the effect of the Constitution: By insisting that Congress approve a
+compact like this one, the Constitution turns the agreement into a 
+federal law like any other.  See Cuyler v. Adams, 449 U. S. 433, 439– 
+440 (1981) (“By vesting in Congress the power to grant or withhold
+consent, . . . the Framers sought to ensure that Congress would main­
+tain ultimate supervisory power over cooperative state action that 
+might otherwise interfere with the full and free exercise of federal
+authority”).  That constitutional choice means that the judicial authority
+we have recognized to give effect to, and remedy violations of, federal
+law fully attends a compact.  
+10 KANSAS v. NEBRASKA
+Opinion of the Court 
+2005–2006 Nebraska exceeded its allocation of water by 
+70,869 acre-feet—about 17% more than its proper share. 
+See Report 88–89; App. B to Reply Brief for Kansas.  They
+similarly agree that this overconsumption resulted in a
+$3.7 million loss to Kansas; and Nebraska has agreed to 
+pay those damages. See Reply Brief for Kansas 9, 55; 
+Brief for Nebraska 7. But the parties dispute whether
+Nebraska’s conduct warrants additional relief.  The Mas­
+ter determined that Nebraska “knowingly exposed Kansas
+to a substantial risk” of breach, and so “knowingly failed” 
+to comply with the Compact.  Report 130, 112; see supra,
+at 5. Based in part on that finding, he recommended 
+disgorgement of $1.8 million, which he described as “a 
+small portion of the amount by which Nebraska’s gain 
+exceeds Kansas’s loss.” Report 179.  But he declined to
+grant Kansas’s request for injunctive relief against Ne­
+braska. See id., at 180–186. As noted previously, see 
+supra, at 5–6, each party finds something to dislike in the 
+Master’s handling of this issue: Nebraska contests his 
+finding of a “knowing” Compact violation and his view that 
+disgorgement is appropriate; Kansas wants a larger dis­
+gorgement award and an injunction regulating Nebraska’s 
+future conduct.  We address those exceptions in turn.
+A 
+1 
+When they entered into the Settlement in 2002, the
+States understood that Nebraska would have to signifi­
+cantly reduce its consumption of Republican River water. 
+See Report 106. The Settlement, after all, charged Ne­
+braska for its depletion of the Basin’s stream flow due to 
+groundwater pumping—an amount the State had not 
+previously counted toward its allotment. See supra, at 3. 
+Nebraska did not have to achieve all that reduction in the
+next year: The Settlement’s adoption of multi-year averages 
+to measure consumption allowed the State some time—    
+11Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+how much depended on whether and when “water-short” 
+conditions existed—to come into compliance.  See Settle­
+ment §§IV(D), V(B)(2)(e)(i), App. B; supra, at 4. As it 
+turned out, the area experienced a drought in 2006; ac­
+cordingly, Nebraska first needed to demonstrate compli­
+ance in that year, based on the State’s average consump­
+tion of water in 2005 and 2006.6  And at that initial 
+compliance check, despite having enjoyed several years to
+prepare, Nebraska came up markedly short.
+Nebraska contends, contrary to the Master’s finding,
+that it could not have anticipated breaching the Compact
+in those years. By its account, the State took “persistent 
+and earnest”—indeed, “extraordinary”—steps to comply
+with the agreement, including amending its water law to
+reduce groundwater pumping.  Brief for Nebraska 9, 17.
+And Nebraska could not have foreseen (or so it claims) 
+that those measures would prove inadequate.  First, Ne­
+braska avers, drought conditions between 2002 and 2006
+reduced the State’s yearly allotments to historically low 
+levels; the Master was thus “unfair to suggest Nebraska
+should have anticipated what never before was known.” 
+Id., at 17. And second, Nebraska stresses, the RRCA 
+determines each State’s use of water only retrospectively, 
+calculating each spring what a State consumed the year
+before; hence, Nebraska “could not have known” that it
+was out of compliance in 2006 “until early 2007—when it
+was already too late.”  Id., at 18; see supra, at 3. 
+But that argument does not hold water: Rather, as the 
+Special Master found, Nebraska failed to put in place 
+adequate mechanisms for staying within its allotment in 
+the face of a known substantial risk that it would other­
+wise violate Kansas’s rights. See Report 105–112, 130. As 
+an initial matter, the State’s efforts to reduce its use of 
+—————— 
+6 Had rainfall been more plentiful, Nebraska would have had to show 
+compliance in 2007, based on its average use from 2003 onward.
+12 KANSAS v. NEBRASKA
+Opinion of the Court 
+Republican River water came at a snail-like pace.  The 
+Nebraska Legislature waited a year and a half after sign­
+ing the Settlement to amend the State’s water law.  See 
+§55, 2004 Neb. Laws p. 352, codified at Neb. Rev. Stat. 46–
+715. And the fix the legislature adopted—the develop­
+ment of regional water management plans meant to de­
+crease groundwater pumping—did not go into effect for 
+still another year. Nebraska thus wasted the time follow­
+ing the Settlement—a crucial period to begin bringing
+down the State’s consumption. Indeed, the State’s overuse 
+of Republican River water actually rose significantly from
+2003 through 2005, making compliance at the eventual
+day of reckoning ever more difficult to achieve.  See Report
+108–109.7  And to make matters worse, Nebraska knew
+that decreasing pumping does not instantly boost stream 
+flow: A time lag, of as much as a year, exists between the 
+one and the other.  See id., at 106.  So Nebraska’s several-
+year delay in taking any corrective action foreseeably
+raised the risk that the State would breach the Compact.
+Still more important, what was too late was also too
+little. The water management plans finally adopted in
+2005 called for only a 5% reduction in groundwater pump­
+ing, although no evidence suggested that would suffice. 
+The testimony presented to the Special Master gave not a 
+hint that the state and local officials charged with formu­
+lating those plans had conducted a serious appraisal of 
+how much change would be necessary.  See id., at 107– 
+108. And the State had created no way to enforce even the 
+paltry goal the plans set.  The Nebraska Legislature chose 
+to leave operational control of water use in the hands of
+district boards consisting primarily of irrigators, who are
+—————— 
+7 Had 2006 not been a “water-short” year, all those overages would 
+have gone into Nebraska’s 5-year average; as it was, the dry conditions
+triggered the alternative 2-year period, so the 2003 and 2004 overages 
+dropped out of the RRCA’s calculations.
+  
+ 
+13Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+among the immediate beneficiaries of pumping.  No sanc­
+tions or other mechanisms held those local bodies to ac­
+count if they failed to meet the plans’ benchmark. They
+bore no legal responsibility for complying with the Com­
+pact, and assumed no share of the penalties the State 
+would pay for violations. See id., at 110–111. Given such
+a dearth of tools or incentives to achieve compliance, the
+wonder is only that Nebraska did not still further exceed 
+its allotment. 
+Nor do Nebraska’s excuses change our view of its mis­
+behavior. True enough, the years following the Settlement
+were exceptionally arid.  But the Compact and Settlement
+(unsurprisingly) contemplate wet and dry years alike.  By
+contrast, Nebraska’s plans could have brought it into 
+compliance only if the Basin had received a stretch of
+copious rainfall. See id., at 109–110.  And Nebraska 
+cannot take refuge in the timing of the RRCA’s calcula­
+tions. By the time the compliance check of 2006 loomed, 
+Nebraska knew that it had exceeded its allotment (by an
+ever greater margin) in each of the three previous years. 
+As Nebraska’s own witnesses informed the Special Master, 
+they “could clearly see” by the beginning of 2006 “that [the
+State] had not done enough” to come into compliance.  Id.,
+at 109 (quoting Tr. 1333 (Aug. 21, 2012)).  Indeed, in that
+year, Nebraska began purchasing its farmers’ rights to
+surface water in order to mitigate its anticipated breach.
+But that last-minute effort, in the Master’s words, “fell 
+woefully short”—as at that point could only have been 
+expected. Report 109. From the outset of the Settlement 
+through 2006, Nebraska headed—absent the luckiest of 
+circumstances—straight toward a Compact violation. 
+For these reasons, we agree with the Master’s conclu­
+sion that Nebraska “knowingly exposed Kansas to a sub­
+stantial risk” of receiving less water than the Compact 
+provided, and so “knowingly failed” to comply with the
+obligations that agreement imposed.  Id., at 130, 112.  In 
+14 KANSAS v. NEBRASKA
+Opinion of the Court 
+the early years of the Settlement, as the Master explained, 
+Nebraska’s compliance efforts were not only inadequate, 
+but also “reluctant,” showing a disinclination “to take [the] 
+firm action” necessary “to meet the challenges of foresee-
+ably varying conditions in the Basin.”  Id., at 105.  Or said 
+another way, Nebraska recklessly gambled with Kansas’s 
+rights, consciously disregarding a substantial probability
+that its actions would deprive Kansas of the water to 
+which it was entitled.  See Tr. 1870 (Aug. 23, 2012) (Mas­
+ter’s statement that Nebraska showed “reckless indiffer­
+ence as to compliance back in ’05 and ’06”).
+2 
+After determining that Kansas lost $3.7 million from 
+Nebraska’s breach, the Special Master considered the case 
+for an additional monetary award.  Based on detailed 
+evidence, not contested here, he concluded that an acre-
+foot of water is substantially more valuable on farmland in
+Nebraska than in Kansas.  That meant Nebraska’s reward 
+for breaching the Compact was “much larger than Kansas’
+loss, likely by more than several multiples.” Report 178.
+Given the circumstances, the Master thought that Ne­
+braska should have to disgorge part of that additional 
+gain, to the tune of $1.8 million. In making that recom­
+mendation, he relied on his finding—which we have just 
+affirmed—of Nebraska’s culpability. See id., at 130. He 
+also highlighted this Court’s broad remedial powers in
+compact litigation, noting that such cases involve not
+private parties’ private quarrels, but States’ clashes over 
+federal law. See id., at 131, 135; supra, at 6–9.
+Nebraska (along with the dissent) opposes the Special
+Master’s disgorgement proposal on the ground that the 
+State did not “deliberately act[]” to violate the Compact.
+Reply Brief for Nebraska 33; see post, at 6–7.  Relying on
+private contract law, Nebraska cites a Restatement provi­
+sion declaring that a court may award disgorgement in
+    
+ 
+15Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+certain cases in which “a deliberate breach of contract
+results in profit to the defaulting promisor.”  Restatement 
+(Third) of Restitution and Unjust Enrichment §39(1) 
+(2010) (Restatement); see Reply Brief for Nebraska 32.
+Nebraska then points out that the Master, even though 
+finding a “knowing” exposure of Kansas to significant risk,
+rejected the idea that “Nebraska officials [had] deliber­
+ately set out to violate the Compact.”  Brief for Nebraska 16 
+(quoting Report 111).  Accordingly, Nebraska concludes, 
+no disgorgement is warranted.
+But that argument fails to come to terms with what the
+Master properly understood as the wrongful nature of 
+Nebraska’s conduct.  True enough, as the Master said,
+that Nebraska did not purposefully set out to breach the
+Compact. But still, as he also found, the State “knowingly
+exposed Kansas to a substantial risk” of breach, and 
+blithely proceeded. Report 130. In some areas of the law 
+and for certain purposes, the distinction between purpose­
+fully invading and recklessly disregarding another’s rights
+makes no difference.  See Bullock v. BankChampaign, 
+N. A., 569 U. S. ___, ___ (2013) (slip op., at 6) (“We include 
+as intentional . . . reckless conduct” of the kind that the 
+law “often treats as the equivalent”); Ernst & Ernst v.
+Hochfelder, 425 U. S. 185, 193–194, n. 12 (1976)
+(“[R]ecklessness is [sometimes] considered to be a form of
+intentional conduct for purposes of imposing liability”). 
+And indeed, the very Restatement Nebraska relies on
+treats the two similarly. It assimilates “deliberate[ness]” 
+to “conscious wrongdoing,” which it defines as acting (as
+Nebraska did) “despite a known risk that the conduct . . . 
+violates [another’s] rights.” Restatement §39, Comment f; 
+id., §51(3).  Conversely, the Restatement distinguishes
+“deliberate[ness]” from behavior (not akin to Nebraska’s)
+amounting to mere “inadvertence, negligence, or unsuc­
+cessful attempt at performance.”  Id., §39, Comment f. 
+And whatever is true of a private contract action, the
+ 16 KANSAS v. NEBRASKA
+Opinion of the Court 
+case for disgorgement becomes still stronger when one 
+State gambles with another State’s rights to a scarce 
+natural resource. From the time this Court began to 
+apportion interstate rivers, it has recognized part of its
+role as guarding against upstream States’ inequitable 
+takings of water. And as we have noted, that concern 
+persists even after States enter into a compact: This Court 
+may then exercise remedial authority to ensure compli­
+ance with the compact’s terms—thus preventing a geo­
+graphically favored State from appropriating more than
+its share of a river. See supra, at 8. Indeed, the formation
+of such a compact provides this Court with enhanced
+remedial power because, as we have described, the agree­
+ment is also an Act of Congress, and its breach a violation
+of federal law. See supra, at 8–9; Porter, 328 U. S. 395 
+(exercising equitable power to disgorge profits gained from 
+violating a federal statute).  Consistent with those princi­
+ples, we have stated that awarding actual damages for a
+compact’s infringement may be inadequate, because that 
+remedy alone “would permit [an upstream State] to ignore 
+its obligation to deliver water as long as it is willing” to
+pay that amount.  Texas v. New Mexico, 482 U. S., at 132.
+And as the Solicitor General noted in argument here, “[i]t 
+is important that water flows down the river, not just 
+money.” Tr. of Oral Arg. 24.  Accordingly, this Court may
+order disgorgement of gains, if needed to stabilize a com­
+pact and deter future breaches, when a State has demon­
+strated reckless disregard of another, more vulnerable 
+State’s rights under that instrument. 
+Assessed in this light, a disgorgement order constitutes 
+a “fair and equitable” remedy for Nebraska’s breach.
+Texas v. New Mexico, 482 U.S., at 134.  “Possessing the
+privilege of being upstream,” Nebraska can (physically, 
+though not legally) drain all the water it wants from the 
+Republican River. Report 130. And the higher value of 
+water on Nebraska’s farmland than on Kansas’s means 
+ 
+17Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+that Nebraska can take water that under the Compact 
+should go to Kansas, pay Kansas actual damages, and still 
+come out ahead. That is nearly a recipe for breach—for an
+upstream State to refuse to deliver to its downstream
+neighbor the water to which the latter is entitled.  And
+through 2006, Nebraska took full advantage of its favor­
+able position, eschewing steps that would effectively control 
+groundwater pumping and thus exceeding its allotment.
+In such circumstances, a disgorgement award appropri­
+ately reminds Nebraska of its legal obligations, deters future
+violations, and promotes the Compact’s successful admin­
+istration. See Porter, 328 U. S., at 400 (“Future compli­
+ance may be more definitely assured if one is compelled to 
+restore one’s illegal gains”).8  We thus reject Nebraska’s
+exception to the Master’s proposed remedy. 
+B 
+Kansas assails the Special Master’s recommended dis­
+gorgement award from the other direction, claiming that it
+is too low to ensure Nebraska’s future compliance.  See 
+Brief for Kansas 55–59. Notably, Kansas does not insist
+on all of Nebraska’s gain.  It recognizes the difficulty of 
+ascertaining that figure, given the evidence the parties
+presented. See id., at 56; see also Report 177–178.  And 
+still more important, it “agrees” with the Master’s view
+that the Court should select a “fair point on th[e] spec­
+trum” between no profits and full profits, based on the 
+—————— 
+8 An award of specific performance may accomplish much the same
+objectives, as the dissent notes.  See post, at 10–11.  But for various 
+reasons, a remedy in the form of water is not always feasible.  See 
+Texas v. New Mexico, 482 U. S. 124, 132 (1987).  Here, both States
+concurred that using water as the remedial currency would lead to 
+difficult questions about the proper timing and location of delivery.  See 
+Report 129–130.  (That agreement is especially notable given the 
+overall contentiousness of this litigation.)  In such circumstances,
+the Master appropriately found another way of preventing knowing 
+misbehavior.
+ 
+ 
+18 KANSAS v. NEBRASKA
+Opinion of the Court 
+totality of facts and interests in the case.  Brief for Kansas
+57 (quoting Report 135); see Sur-Reply Brief for Kansas 5.
+In setting that point, however, Kansas comes up with a 
+higher number—or actually, a trio of them.  The State
+first asks us to award “treble damages of $11.1 million,”
+then suggests that we can go “up to roughly $25 million,” 
+and finally proposes a “1:1 loss-to-disgorgement ratio,” 
+which means $3.7 million of Nebraska’s gains.  Brief for 
+Kansas 57; Sur-Reply Brief for Kansas 5, 7.
+We prefer to stick with the Master’s single number.  As
+an initial matter, we agree with both the Master and 
+Kansas that disgorgement need not be all or nothing.  See,
+e.g., 1 D. Dobbs, Law of Remedies §2.4(1), p. 92 (2d ed.
+1993) (“Balancing of equities and hardships may lead the 
+court to grant some equitable relief but not” the full meas­
+ure requested); Restatement §39, Comment i; id., §50,
+Comment a; National Security Systems, Inc. v. Iola, 700 
+F. 3d 65, 80–81, 101–102 (CA3 2012).  In exercising our
+original jurisdiction, this Court recognizes that “flexibility 
+[is] inherent in equitable remedies,” Brown v. Plata, 563
+U. S. ___, ___ (2011) (slip op., at 41) (quoting Hutto v.
+Finney, 437 U. S. 678, 687, n. 9 (1978)), and awards them
+“with reference to the facts of the particular case,” Texas v.
+New Mexico, 482 U. S., at 131 (quoting Haffner v. Dobrin-
+ski, 215 U. S. 446, 450 (1910)).  So if partial disgorgement
+will serve to stabilize a compact by conveying an effective
+message to the breaching party that it must work hard to
+meet its future obligations, then the Court has discretion
+to order only that much.  Cf. Kansas v. Colorado, 533 U. S.
+1, 14 (2001) (concluding that a master “acted properly in
+carefully analyzing the facts of the case and in only award­
+ing as much prejudgment interest as was required by a
+balancing of the equities”).
+And we agree with the Master’s judgment that a rela­
+tively small disgorgement award suffices here.  That is 
+because, as the Master detailed, Nebraska altered its 19Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+conduct after the 2006 breach, and has complied with the 
+Compact ever since. See Report 112–118, 180.  In 2007,
+Nebraska enacted new legislation establishing a mecha­
+nism to accurately forecast the State’s annual allotment of 
+Republican River water.  §23, 2007 Neb. Laws p. 1600, 
+codified at Neb. Rev. Stat. 46–715(6).  Further, a new 
+round of water management plans called for localities to
+reduce groundwater pumping by five times as much as the 
+old (5%) target.  And most important, those plans imple­
+mented a system for the State, in dry years, to force dis­
+tricts to curtail both surface water use and groundwater
+pumping. That “regulatory back-stop,” as Nebraska calls
+it, corrects the State’s original error of leaving all control 
+of water use to unaccountable local actors. Report 113
+(quoting Direct Testimony of Brian Dunnigan, Director,
+Nebraska Department of Resources ¶43 (July 25, 2012));
+see supra, at 12–13. Testimony before the Master showed
+that if the scheme had been in effect between 2002 and 
+2006, Nebraska would have lived within its allocation
+throughout that period.  See Report 117.  The Master thus
+reasonably concluded that the current water management 
+plans, if implemented in good faith, “will be effective to
+maintain compliance even in extraordinarily dry years.” 
+See id., at 118. And so the Master had good cause to
+recommend the modest award he did, which serves as an
+ever-present reminder to Nebraska, but does not assume
+its continuing misconduct.
+Truth be told, we cannot be sure why the Master selected
+the exact number he did—why, that is, he arrived at
+$1.8 million, rather than a little more or a little less.  The 
+Master’s Report, in this single respect, contains less ex­
+planation than we might like. But then again, any hard 
+number reflecting a balance of equities can seem random
+in a certain light—as Kansas’s own briefs, with their ever-
+fluctuating ideas for a disgorgement award, amply attest.
+What matters is that the Master took into account the
+ 
+  
+20 KANSAS v. NEBRASKA
+Opinion of the Court 
+appropriate considerations—weighing Nebraska’s incen­
+tives, past behavior, and more recent compliance efforts—
+in determining the kind of signal necessary to prevent
+another breach. We are thus confident that in approving 
+the Master’s recommendation for about half again Kan­
+sas’s actual damages, we award a fair and equitable remedy
+suited to the circumstances. 
+For related reasons, we also reject Kansas’s request for 
+an injunction ordering Nebraska to comply with the Com­
+pact and Settlement.  Kansas wants such an order so that
+it can seek contempt sanctions against Nebraska for any 
+future breach. See Brief for Kansas 36–44. But we agree
+with the Master that Kansas has failed to show, as it must
+to obtain an injunction, a “cognizable danger of recurrent
+violation.” United States v. W. T. Grant Co., 345 U. S. 629,
+633 (1953). As just discussed, Nebraska’s new compliance 
+measures, so long as followed, are up to the task of keep­
+ing the State within its allotment.  And Nebraska is now 
+on notice that if it relapses, it may again be subject to
+disgorgement of gains—either in part or in full, as the
+equities warrant. That, we trust, will adequately guard 
+against Nebraska’s repeating its former practices.
+IV 
+The final question before us concerns the Special Mas­
+ter’s handling of Nebraska’s counterclaim.  As we have
+noted, Nebraska contended that the Settlement’s Account­
+ing Procedures inadvertently charge the State for using
+“imported water”—specifically, water from the Platte 
+River—in conflict with the parties’ intent in both the 
+Compact and the Settlement.  See supra, at 4–5.  The 
+Master agreed, and recommended modifying the Proce­
+dures by adopting an approach that the parties call the “5­
+run formula,” to ensure that Nebraska’s consumption of
+Platte River water will not count toward its Compact
+allotment. Kansas now objects to that proposed remedy. 
+  21Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+The Compact, recall, apportions the virgin water supply
+of the Republican River and its tributaries—nothing less, 
+but also nothing more.  See Compact Art. III; supra, at 2.
+One complexity of that project arises from water’s . . . well, 
+fluid quality.  Nebraska imports water from the Platte
+River, outside the Republican River Basin and thus out­
+side the Compact’s scope, to irrigate farmland.  And that
+imported water simply will not stay still: Some of it seeps
+through the ground and raises stream flow in the Republi­
+can River and its tributaries.  See Second Report of Spe­
+cial Master, O. T. 1999, No. 126, Orig., pp. 62–63 (Second 
+Report). In negotiating the Settlement, the States under­
+took—as part of their effort to accurately apportion the
+Basin’s water—to exclude all such imported water from
+their calculations. Reflecting the Compact’s own scope, 
+§IV(F) of the Settlement states, in no uncertain terms, 
+that “Beneficial Consumptive Use of Imported Water 
+Supply shall not count as Computed Beneficial Consump­
+tive Use” of Republican River Basin water. Which means,
+without all that distracting capitalization, that when 
+Nebraska consumes imported water that has found its 
+way into the Basin’s streams, that use shall not count 
+toward its Compact allotment.  But that edict of course
+requires calculating (in order to exclude) the State’s con­
+sumption of imported water. The Settlement’s Accounting
+Procedures, in tandem with its Groundwater Model, are
+the tools the parties employ to make that computation. 
+But as the Master found, the Procedures (and Model) 
+founder in performing that task in dry conditions: They 
+treat Nebraska’s use of imported water as if it were use of 
+Basin water.  That failure flows from the way the Proce­
+dures measure a State’s consumption of water resulting
+from groundwater pumping.  According to the Settlement,
+such pumping is to count against a State’s allotment only
+to the extent it reduces stream flow in specified areas—
+which it rarely does in a 1-to-1 ratio and sometimes does  
+22 KANSAS v. NEBRASKA
+Opinion of the Court 
+not do at all. See id., §IV(C)(1); Report 19; n. 1, supra.
+Most notable here, pumping cannot deplete an already 
+wholly dry stream—and in arid conditions, some of the 
+Basin’s tributaries in fact run dry.  As the Master put the
+point, stream flow in a given area “fall[s] as groundwater 
+pumping increases until it hits zero, at which point it falls 
+no more even as groundwater pumping continues.”  Report
+34. When that point arrives, Nebraska’s continued pump­
+ing should not count as consumption of the Basin’s virgin
+water. But—and here lies the rub—imported water (from
+the Platte) can create stream flow in what would other­
+wise be a dry riverbed.  And the Accounting Procedures 
+(and Model) fail to account for that possibility; accordingly,
+they see depletion of the Basin’s stream flow—the sole 
+measure of the State’s consumption—where they should 
+not. The result is to count imported water toward the 
+State’s consumption of Basin water.  In 2006, for example,
+the Procedures charged Nebraska with using 7,797 acre-
+feet of Platte River water, over 4% of the State’s allotment. 
+By our estimate, just that single year’s miscalculation cost
+Nebraska over $1 million.  See id., at 37, 176. 
+The Master specifically determined, and our review of 
+the relevant testimony confirms, that the parties did not 
+know the Accounting Procedures would have that effect.
+See id., at 23–32.  The States intended the Procedures (as
+per the Compact and Settlement) to count only consump­
+tion of the Basin’s own water supply—and correlatively, to 
+exclude use of water from the Platte.  See id., at 23–25; 
+see also Second Report 37, 64 (same conclusion reached by
+the Special Master approving the Settlement).  There is no 
+evidence that anyone seriously thought, much less dis­
+cussed, that the Accounting Procedures might systemati­
+cally err in accomplishing those computations. See Report
+26–27.9  And because no one knew of the fault in the Pro­
+—————— 
+9 Kansas argues otherwise, see Brief for Kansas 28–29, but the part of  
+ 
+23Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+cedures, no one could possibly trade it off for other items 
+during the parties’ negotiations.  Thus, as the Master 
+found, Nebraska did not receive anything, nor did Kansas
+give up anything, in exchange for the (unknown) error.
+See id., at 28–31. To the contrary, as all witnesses ex­
+plained, the designers of the Procedures worked single­
+mindedly to implement the Compact’s and Settlement’s
+strict demarcation between virgin and imported water—
+and assumed they had succeeded.  See id., at 31–32. 
+But even if all that is so, Kansas argues (along with the
+dissent) that a deal is a deal is a deal—and this deal did 
+not include the 5-run formula the Master now proposes.
+See Brief for Kansas 31–34; post, at 15–19. On that view,
+the parties’ clear intent to exclude imported water does 
+not matter; nor does their failure to appreciate that the 
+Procedures, in opposition to that goal, would count such
+water in material amounts.  According to Kansas, so long
+as the parties bargained (as they did) for the Procedures 
+they got, that is the end of the matter:  No one should now 
+be heard to say that there is a better mode of accounting. 
+See Tr. of Oral Arg. 54–55. 
+That argument, however, does not pass muster.  Of 
+course, courts generally hold parties to the deals they 
+make; and of course, courts should hesitate, and then
+hesitate some more, before modifying a contract, even to
+remove an inadvertent flaw.  But in this Compact case,
+two special (and linked) considerations warrant reforming 
+the Accounting Procedures as the Master has proposed—
+or better phrased, warrant conforming those Procedures to
+the parties’ underlying agreements.  First, that remedy is 
+—————— 
+the record it cites further proves our point.  There, Colorado’s expert 
+testified that during development of the Groundwater Model—months 
+after adoption of the Accounting Procedures—he “intellectually under­
+stood” that the imported-water problem could occur, but “didn’t think
+that it would” and didn’t recall the issue ever coming up in discussions. 
+Report 26 (quoting Tr. 676 (Aug. 13, 2012)); id., at 727–728. 
+24 KANSAS v. NEBRASKA
+Opinion of the Court 
+necessary to prevent serious inaccuracies from distorting
+the States’ intended apportionment of interstate waters,
+as reflected in both the Compact and the Settlement.  And
+second, it is required to avert an outright breach of the 
+Compact—and so a violation of federal law.  We address
+each point in turn.
+In resolving water disputes, this Court has opted to 
+correct subsidiary technical agreements to promote accu­
+racy in apportioning waters under a compact.  In Texas v. 
+New Mexico, for example, the parties entered into a com­
+pact that based division of the Pecos River on certain 
+conditions existing in 1947.  The States further agreed
+that those conditions were described and defined in a 
+particular engineering report. But that report turned out 
+to contain material errors.  Notwithstanding Texas’s
+objection that the parties had assented to its use, we set 
+aside the flawed study and adopted a new technical docu­
+ment that more accurately depicted the real-world condi­
+tions of the compact’s specified baseline year.  See 446 
+U. S. 540 (1980) (per curiam) (setting aside the old docu­
+ment); 462 U. S., at 562–563 (describing the litigation);
+467 U. S. 1238 (1984) (approving the new document); 482 
+U. S., at 127 (describing that approval).Similarly, in Kansas v. Colorado, 543 U. S. 86 (2004), we 
+modified an agreement to ensure that it would correctly
+measure Colorado’s compliance with the Arkansas River
+Compact. The parties had consented to use a computer 
+model on a year-by-year basis to gauge their consumption
+of water.  See id., at 102 (“[B]oth [States] agreed to the
+use of annual measurement”). But after a time, a special 
+master determined that annual accounting produced
+serious errors, whereas employing a 10-year measuring 
+period accurately determined compact compliance.  Over
+Kansas’s protest, we accordingly approved the Master’s 
+alteration of the parties’ agreement to assess compliance 
+each year. And in countering Kansas’s objection to the  
+  
+25Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+introduction of a 10-year measuring period, we posited 
+that the compact’s drafters, albeit unaware of “complex 
+computer modeling[,] . . . would have preferred accurate
+measurement.” Ibid.10 
+The teaching of those cases applies as well to this one:
+In each, this Court’s authority to devise “fair and equitable 
+solutions” to interstate water disputes encompasses modi­
+fying a technical agreement to correct material errors in 
+the way it operates and thus align it with the compacting 
+States’ intended apportionment.  Texas v. New Mexico, 482 
+U. S., at 134; cf. Kansas v. Colorado, 543 U. S., at 102 
+(“After all, a ‘credit’ for surplus water that rests upon
+inaccurate measurement is not really a credit at all”). 
+Much as in Texas v. New Mexico and Kansas v. Colorado, 
+the subsidiary Accounting Procedures here failed to accu­
+rately measure what they were supposed to.  Modifying
+those Procedures does no more than make them consonant 
+with the Compact and Settlement, ensuring that they help
+—————— 
+10 The dissent misunderstands the meaning and relevance of these 
+decisions.  It is of course true, as the dissent says, that in neither case
+did the Court reform a compact.  See post, at 16–17. What the Court 
+did do, contrary to the dissent’s protestations, was what we do here:
+modify an ancillary agreement to make sure it accurately implemented
+a compact’s apportionment.  In Texas v. New Mexico, we interpreted a 
+compact term, as the dissent says, see post, at 16; but we additionally
+threw out a technical report that the parties agreed would effectuate
+that term when it later proved erroneous.  And similarly in Kansas v.
+Colorado, we altered an ancillary agreement to measure water usage 
+year by year.  The dissent contends that the States in that case had no
+such agreement, though acknowledging that they had one to calculate
+damages on an annual basis.  See post, at 17. But the two were one and
+the same. Damages arise from violations, and violations occur when a 
+State consumes too much water.  In calling for year-by-year measure­
+ment of damages, the agreement also called for year-by-year assess­
+ment of consumption.  And nothing supports the dissent’s claim that
+this agreement applied only retrospectively, rather than to assess both
+usage and damages on an ongoing basis.  So to impose a 10-year meas­
+uring period, consistent with accurate apportionment under the Com­
+pact, we had to alter the agreement. 
+ 
+ 
+26 KANSAS v. NEBRASKA
+Opinion of the Court 
+to realize, rather than frustrate, the agreed-upon division
+of water.
+Indeed, the case for modification is still stronger here,
+because (as we explain below) the Accounting Procedures
+as written affirmatively violate the Compact.  That accord 
+is the supreme law in this case: As the States explicitly 
+recognized, they could not change the Compact’s terms
+even if they tried. See Settlement §I(D) (“[T]his Stipula­
+tion and the Proposed Consent Judgment are not intended 
+to, nor could they, change the States’ respective rights and
+obligations under the Compact”). That is a function of the 
+Compact’s status as federal law, which binds the States
+unless and until Congress says otherwise.  And Congress,
+of course, has not said otherwise here.  To enter into a 
+settlement contrary to the Compact is to violate a federal 
+statute. See Vermont v. New York, 417 U. S. 270, 278 
+(1974) (per curiam).  And as we have discussed, our equi­
+table authority to grant remedies is at its apex when
+public rights and obligations are thus implicated.  See 
+Porter, 328 U. S., at 398; supra, at 8–9. 
+The Accounting Procedures’ treatment of imported
+water first conflicts with the Compact by going beyond its
+boundaries—in essence, by regulating water ultra vires. 
+According to its terms, the Compact pertains, and pertains 
+only, to “virgin water supply originating in” the Republi­
+can River Basin.  Compact Art. III; see supra, at 2, 21. 
+The agreement’s very first Article drives that point home:
+“The physical and other conditions peculiar to the Basin 
+constitute the basis for this compact,” and nothing in it 
+relates to any other waterway.  To divide or otherwise
+regulate streams outside the Basin, the States would have 
+to enter into a separate agreement and gain congressional 
+approval. (The reason no one thought the Settlement 
+needed such consent is precisely because it purported to
+stay within the Compact’s limits.  See Settlement §I(D)) 
+And yet, the Accounting Procedures have the effect of
+  
+ 
+27Cite as: 574 U. S. ____ (2015) 
+Opinion of the Court 
+including such outside water within the Compact’s appor­
+tionment scheme (by counting its use against a State’s 
+allotment). The Procedures make water from the Platte
+subject to the Compact, in contravention of its scope; or
+conversely stated, they expand the Compact’s prescribed
+scope to cover water from the Platte.  That is not within
+the States’ authority.
+What is more, the Procedures’ treatment of imported 
+water deprives Nebraska of its rights under the Compact
+to the Basin’s own water supply. That is because the
+inescapable effect of charging Nebraska for the use of 
+imported water, as the Procedures do, is to reduce the
+amount of Republican River water the State may con­
+sume. Suppose the Compact grants 100 units of Republi­
+can River water to Nebraska and Kansas alike; and fur­
+ther assume that the Accounting Procedures count 10 
+units of Platte River water toward Nebraska’s allotment. 
+That means Nebraska may now consume only 90 units of 
+Republican River water (or else pay Kansas damages). 
+The Procedures thus change the States’ shares of Basin 
+water, to Nebraska’s detriment: Nebraska now has less, 
+and Kansas relatively more, than the Compact allows.
+That, too, lies outside what the States can do. 
+In light of all the above, we think the Master’s proposed 
+solution the best one possible. The 5-run formula that he 
+recommends conforms the Procedures to both the Compact 
+and the Settlement by excluding imported water from the 
+calculation of each State’s consumption. See Report 55–
+56; id., at App. F. Kansas has not provided any workable 
+alternative to align the Accounting Procedures with the
+Compact and Settlement.  Nor has Kansas credibly shown
+that this simple change will introduce any other inaccu­
+racy into Compact accounting.  See id., at 58–68.  The
+amendment will damage Kansas in no way other than by
+taking away something to which it is not entitled.  In 
+another case, with another history, we might prefer to
+ 
+ 28 KANSAS v. NEBRASKA
+Opinion of the Court 
+instruct the parties to figure out for themselves how to
+bring the Accounting Procedures into line with the Com­
+pact. See New York v. New Jersey, 256 U. S. 296, 313 
+(1921) (noting that negotiation is usually the best way to
+solve interstate disputes).  But we doubt that further
+discussion about this issue will prove productive.  Arbitra­
+tion has already failed to produce agreement about how to 
+correct the Procedures.  See supra, at 5. And before the
+Special Master, both parties indicated that further “dis­
+pute resolution proceedings before the RRCA or an arbi­
+trator” would be “futile.”  Report 69 (quoting Case Man­
+agement Order No. 9 ¶5 (Jan. 25, 2013)). We accordingly 
+adopt the Master’s recommendation to amend the Ac­
+counting Procedures so that they no longer charge Ne­
+braska for imported water. 
+V 
+Nebraska argues here for a cramped view of our author­
+ity to order disgorgement. Kansas argues for a similarly 
+restrictive idea of our power to modify a technical docu­
+ment. We think each has too narrow an understanding of
+this Court’s role in disputes arising from compacts appor­
+tioning interstate streams.  The Court has broad remedial 
+authority in such cases to enforce the compact’s terms. 
+Here, compelling Nebraska to disgorge profits deters it
+from taking advantage of its upstream position to appro­
+priate more water than the Compact allows.  And amend­
+ing the Accounting Procedures ensures that the Compact’s
+provisions will govern the division of the Republican River 
+Basin’s (and only that Basin’s) water supply. Both reme­
+dies safeguard the Compact; both insist that States live 
+within its law.  Accordingly, we adopt all of the Special 
+Master’s recommendations. 
+It is so ordered.
+ _________________ 
+_________________ 
+1 Cite as: 574 U. S. ____ (2015) 
+Opinion of ROBERTS, C. J.
+SUPREME COURT OF THE UNITED STATES 
+No. 126, Orig. 
+STATE OF KANSAS, PLAINTIFF v. STATES OF NEBRASKA AND COLORADO ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+[February 24, 2015]
+ CHIEF JUSTICE ROBERTS, concurring in part and dissent-
+ing in part. 
+I join Parts I and III of the Court’s opinion.  I am in 
+general agreement with the discussion in Part II, but I do 
+not believe our equitable power, though sufficient to order 
+a remedy of partial disgorgement, permits us to alter the
+Accounting Procedures to which the States agreed. I 
+therefore join Part III of JUSTICE THOMAS’s opinion.
+ _________________ 
+_________________
+ 
+ 
+1 Cite as: 574 U. S. ____ (2015) 
+Opinion of SCALIA, J.
+SUPREME COURT OF THE UNITED STATES 
+No. 126, Orig. 
+STATE OF KANSAS, PLAINTIFF v. STATES OF NEBRASKA AND COLORADO ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+[February 24, 2015]
+ JUSTICE SCALIA, concurring in part and dissenting in 
+part.
+I join JUSTICE THOMAS’s opinion.  I write separately to
+note that modern Restatements—such as the Restatement 
+(Third) of Restitution and Unjust Enrichment (2010), 
+which both opinions address in their discussions of the
+disgorgement remedy—are of questionable value, and 
+must be used with caution.  The object of the original 
+Restatements was “to present an orderly statement of the
+general common law.” Restatement of Conflict of Laws,
+Introduction, p. viii (1934).  Over time, the Restatements’ 
+authors have abandoned the mission of describing the law, 
+and have chosen instead to set forth their aspirations for
+what the law ought to be.  Keyes, The Restatement (Sec-
+ond): Its Misleading Quality and a Proposal for Its Amelio-
+ration, 13 Pepp. L. Rev. 23, 24–25 (1985).  Section 39 of 
+the Third Restatement of Restitution and Unjust Enrich-
+ment is illustrative; as JUSTICE THOMAS notes, post, at 8 
+(opinion concurring in part and dissenting in part), it
+constitutes a “ ‘novel extension’ ” of the law that finds little 
+if any support in case law. Restatement sections such as
+that should be given no weight whatever as to the current 
+state of the law, and no more weight regarding what the 
+law ought to be than the recommendations of any respected
+lawyer or scholar. And it cannot safely be assumed, with-
+out further inquiry, that a Restatement provision de-
+scribes rather than revises current law. 
+_________________ 
+_________________
+ 
+ 
+Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+SUPREME COURT OF THE UNITED STATES 
+No. 126, Orig. 
+STATE OF KANSAS, PLAINTIFF v. STATES OF NEBRASKA AND COLORADO ON EXCEPTIONS TO REPORT OF SPECIAL MASTER
+[February 24, 2015]
+ JUSTICE THOMAS, with whom JUSTICE SCALIA and 
+JUSTICE ALITO join, and with whom THE CHIEF JUSTICE 
+joins as to Part III, concurring in part and dissenting in
+part.
+Kansas, Nebraska, and Colorado have presented us with 
+what is, in essence, a contract dispute.  In exercising our
+original jurisdiction in this case, we have a responsibility
+to act in accordance with the rule of law and with appro­
+priate consideration for the sovereign interests of the 
+States before us. I agree with the Court’s conclusion that
+Nebraska knowingly, but not deliberately, breached the
+Republican River Compact, and I agree that there is no
+need to enter an injunction ordering Nebraska to comply
+with the Compact.  But that is where my agreement ends. 
+Applying ordinary principles of contract law to this dis­
+pute, I would neither order disgorgement nor reform the 
+States’ settlement agreement.
+This Court once understood that “the hardship of the 
+case . . . is not sufficient to justify a court of equity to 
+depart from all precedent and assume an unregulated
+power of administering abstract justice at the expense of
+well-settled principles.” Heine v. Levee Comm’rs, 19 Wall. 
+655, 658 (1874). Today, however, the majority disregards
+these limits.  Invoking equitable powers, without equitable 
+principles, the majority ignores the principles of contract
+law that we have traditionally applied to compact disputes
+ 
+ 
+2 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+between sovereign States. It authorizes an arbitrary 
+award of disgorgement for breach of that contract.  And, it
+invents a new theory of contract reformation to rewrite the 
+agreed-upon terms of that contract.  I respectfully dissent
+from these holdings. 
+I A The States in this action disagree about their rights and
+responsibilities under the Republican River Compact and 
+their 2002 Final Settlement Stipulation (Settlement), and 
+have asked this Court to resolve what is, in essence, a
+contract dispute.  “An interstate compact, though provided
+for in the Constitution, and ratified by Congress, is none­
+theless essentially a contract between the signatory
+States.” Oklahoma v. New Mexico, 501 U. S. 221, 242 
+(1991) (Rehnquist, C. J., concurring in part and dissenting 
+in part). Likewise, a legal settlement agreement is a 
+contract. Kokkonen v. Guardian Life Ins. Co. of America, 
+511 U. S. 375, 381–382 (1994). 
+The Court should therefore interpret the agreements at
+issue according to “the principles of contract law.”  Tarrant
+Regional Water Dist. v. Herrmann, 569 U. S. ___, ___ 
+(2013) (slip op., at 11).  Under these principles, the Com­
+pact and Settlement are “legal document[s] that must be 
+construed and applied in accordance with [their] terms.”
+Texas v. New Mexico, 482 U. S. 124, 128 (1987) (Texas III);
+see also Kaktovik v. Watt, 689 F. 2d 222, 230 (CADC 1982) 
+(applying “familiar principles of contract law” to a settle­
+ment agreement”).
+That command is even stronger in the context of inter­
+state compacts, which must be approved by Congress
+under the Compact Clause of the Constitution. Art. I, §10, 
+cl. 3; Alabama v. North Carolina, 560 U. S. 330, 351–352 
+(2010). Because these compacts are both contracts and
+federal law, we must be more careful to adhere to their   
+ 
+ 
+3 Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+express terms, not less so. Ibid.  If judges had the power
+to apply their own notions of fairness “to the implementa­
+tion of federal statutes, [they] would be potent lawmakers 
+indeed.” Id., at 352. Thus, to the extent that we have 
+departed from contract law principles when adjudicating
+disputes over water compacts, it has been to reject loose 
+equitable powers of the sort the majority now invokes. 
+See, e.g., id., at 351–353 (rejecting an implied duty of good 
+faith and fair dealing in interstate compacts). We have
+repeatedly said that “we will not order relief inconsistent 
+with the express terms of a compact, no matter what the 
+equities of the circumstances might otherwise invite.”  Id., 
+at 352 (internal quotation marks and alterations omitted). 
+B 
+Rather than apply “the principles of contract law,”
+Tarrant Regional Water Dist., supra, at ___ (slip op., at
+11), the majority calls upon broad equitable power.  Ante,
+at 6–9. It evidently draws this power from its “inherent 
+authority” to apportion interstate streams in the absence 
+of an interstate water compact. Ante, at 7.  In the major­
+ity’s view, States bargain for water rights “in the shadow of
+our equitable apportionment power,” and thus we “may
+invoke equitable principles” to “devise fair . . . solutions” to 
+disputes between States about the bargains they struck. 
+Ante, at 8 (internal quotation marks and alteration 
+omitted).
+That conclusion gets things backwards: As we have
+explained, once a compact is formed, “courts have no
+power to substitute their own notions of an equitable 
+apportionment for the apportionment chosen by Congress”
+and the States. Texas v. New Mexico, 462 U. S. 554, 568 
+(1983) (Texas II ) (internal quotation marks omitted).
+The majority next asserts “still greater” equitable power
+by equating contract disputes between sovereign States
+with cases involving federal law and the public interest.4 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+Ante, at 8–9.  Although the majority recognizes that it
+“may not order relief inconsistent with a compact’s express
+terms,” it claims enlarged powers “within those limits.” 
+Ante, at 9 (internal quotation marks and alterations omit­
+ted). “When federal law is at issue and the public interest 
+is involved,” the majority says, the Court’s equitable pow­
+ers are “even broader and more flexible” than when it 
+resolves a private-law dispute. Ibid. (internal quotation
+marks omitted). 
+But the precedents on which the majority relies to jus- 
+tify this power have nothing to do with water disputes
+between States.  The majority cites Porter v. Warner Hold-
+ing Co., 328 U. S. 395 (1946), which involved a suit by the 
+Administrator of the Office of Price Administration for an 
+injunction against a landlord who had charged too much
+rent in violation of the Emergency Price Control Act of
+1942. In that case, the Court recognized a public interest
+in the Administrator’s effort to “enforce compliance” with
+the Act, and “to give effect to its purposes.”  Id., at 398, 
+400. The Court reasoned that, “since the public interest is 
+involved in a proceeding of this nature, [a district court’s]
+equitable powers assume an even broader and more flexi­
+ble character than when only a private controversy is at 
+stake.” Id., at 398. The authority Porter cited for this
+point was Virginian R. Co. v. Railway Employees, 300 
+U. S. 515 (1937), a case on which the majority likewise 
+relies. Ante, at 9. But that case, like Porter, did not in­
+volve a state party or an interstate water dispute; instead, 
+it concerned a dispute between private parties—a railroad 
+and its employees’ union—arising under the Railway
+Labor Act. Virginian R. Co., supra, at 538. As in Porter, 
+the Court recognized a public interest in the enforcement
+of a federal administrative scheme, explaining that Con­
+gress had made a “declaration of public interest and policy
+which should be persuasive in inducing courts to give
+relief.” 300 U. S., at 552. 
+ 
+5 Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+This case, by contrast, involves the inherent authority of
+sovereign States to regulate the use of water.  The States’ 
+“power to control navigation, fishing, and other public uses
+of water” is not a function of a federal regulatory program;
+it “is an essential attribute of [state] sovereignty.”  Tar-
+rant Regional Water Dist., 569 U. S., at ___ (slip op., at 15) 
+(internal quotation marks omitted).  Thus, when the Court 
+resolves an interstate water dispute, it deals not with
+public policies created by federal statutes, but pre-existing 
+sovereign rights, allocated according to the mutual agree­
+ment of the parties with the consent of Congress.  Al­
+though the consent of Congress makes statutes of com­
+pacts, our flexibility in overseeing a federal statute that 
+pertains to the exercise of these sovereign powers is not
+the same as the flexibility Porter claimed for courts en­
+gaged in supervising the administration of a federal regu­
+latory program.  Authority over water is a core attribute of 
+state sovereignty, and “[f]ederal courts should pause
+before using their inherent equitable powers to intrude 
+into the proper sphere of the States.” Missouri v. Jenkins, 
+515 U. S. 70, 131 (1995) (THOMAS, J., concurring).
+Moreover, even if the involvement of “public interests” 
+might augment the Court’s equitable powers in the con­
+text of disputes involving regulated parties and their
+regulators, it does not have the same effect in a dispute 
+between States. States—unlike common carriers and 
+landlords—“possess sovereignty concurrent with that of 
+the Federal Government.” Gregory v. Ashcroft, 501 U. S.
+452, 457 (1991) (internal quotation marks omitted).
+States thus come before this Court as sovereigns, seeking
+our assistance in resolving disputes “of such seriousness
+that it would [otherwise] amount to a casus belli.” Ne-
+braska v. Wyoming, 515 U. S. 1, 8 (1995) (internal quota­
+tion marks omitted).  The Federalist Papers emphasized
+that this Court’s role in resolving interstate disputes 
+“[would] not change the principle” of state sovereignty, 
+ 
+  
+6 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+and they gave assurances that the Court would take “all 
+the usual and most effectual precautions” necessary for 
+impartial and principled adjudication. The Federalist No. 
+39, pp. 245–246 (C. Rossiter ed. 1961) (J. Madison).
+For that reason, when the parties before this Court are
+States, the Court should be more circumspect in its use of 
+equitable remedies, not less. We have explained, for
+example, that “[w]e are especially reluctant to read absent 
+terms into an interstate compact given the federalism and 
+separation-of-powers concerns that would arise were we to 
+rewrite an agreement among sovereign States, to which
+the political branches consented.”  Alabama, 560 U. S., at 
+352. The use of unbounded equitable power against 
+States similarly threatens “to violate principles of state
+sovereignty and of the separation of powers,” Jenkins, 515
+U. S., at 130 (THOMAS, J., concurring).  In controversies 
+among States, the Court should therefore “exercise the 
+power to impose equitable remedies only sparingly, subject 
+to clear rules guiding its use.” Id., at 131. 
+II
+Applying ordinary contract principles, I would reject the
+Special Master’s recommendation to order disgorgement of
+Nebraska’s profits for breach of a compact.  That remedy
+is not available for a nondeliberate breach of a contract. 
+And even if it were, such an award must be based on 
+Nebraska’s profits, not the arbitrary number the Master 
+selected. 
+A 
+1 
+Although our precedents have not foreclosed disgorge­
+ment of profits as a remedy for breach of a water compact,
+they have suggested that disgorgement would be avail- 
+able, if at all, only for the most culpable breaches: those 
+that are “deliberate.” Texas III, 482 U. S., at 132.  The
+ 
+7 Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+traditional remedy for breach of a water compact has been 
+performance through delivery of water. See Kansas v. 
+Colorado, 533 U. S. 1, 23 (2001) (O’Connor, J., concurring
+in part and dissenting in part).  Although we deviated
+from that traditional remedy in Texas III, when we au­
+thorized money damages, 482 U. S., at 132, the majority
+cites no case in which we have ever awarded disgorge­
+ment. The lone reference to that remedy in our precedents 
+is dictum in Texas III asserting that the money damages
+award in that case would not encourage efficient breaches
+of water compacts “in light of the authority to order . . .
+whatever additional sanction might be thought necessary
+for deliberate failure to perform . . . .”  Ibid.
+The lack of support for disgorgement in our compact
+cases comports with the general law of remedies.  The 
+usual remedy for breach of a contract is damages based on 
+the injured party’s “actual loss caused by the breach.”
+Restatement (Second) of Contracts §347, Comment e, p.
+116 (1979). Disgorgement, by contrast, is an extraordi­
+nary remedy that goes beyond a plaintiff ’s damages,
+requiring the breaching party to refund additional profits
+gained in the breach.  See 3 D. Dobbs, Law of Remedies 
+§12.7(3), pp. 166–167 (2d ed. 1993).  In American law,
+disgorgement of profits is not generally an available rem- 
+edy for breach of contract.  Id., §12.7(4), at 171.Even if Texas III supported a narrow exception for cases
+involving deliberate breach of a water compact, that ex­
+ception would not apply here.  Although it is uncontested 
+that Nebraska breached the Compact and that Kansas lost 
+$3.7 million as a result, ante, at 9–10, the Master expressly 
+found that there is no evidence that Nebraska deliber- 
+ately breached the Compact.  Report of Special Master
+111, 130 (Report). In fact, Nebraska’s efforts “were ear­
+nest and substantial enough to preclude a finding that this
+was a consciously opportunistic breach.” Id., at 131. And 
+although the majority adopts the finding that Nebraska
+ 
+   
+8 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+“knowingly failed” to comply with the Compact, ante, at 13
+(internal quotation marks omitted), a finding that I do not
+dispute, neither the parties nor the majority disagrees
+with the Master’s conclusion that Nebraska did not inten­
+tionally or deliberately breach the Compact, ante, at 10– 
+14. Under such circumstances, disgorgement is not an
+available remedy. 
+2 
+The Special Master nevertheless recommended dis­
+gorgement because Nebraska “knowingly exposed Kansas
+to a substantial risk” of noncompliance.  Report 130. He
+rested this recommendation on the Restatement (Third) of
+Restitution and Unjust Enrichment §39 (2010).  See Re­
+port 130–134. That section proposes awarding disgorge­
+ment when a party’s profits from its breach are greater 
+than the loss to the other party. The remedy is thought
+necessary because one party may “exploit the shortcom­
+ings” of traditional damages remedies by breaching con­
+tracts when its expected profits exceed the damages it 
+would be required to pay to the other party.  Restatement 
+(Third) of Restitution §39, Comment b, at 649.  In other 
+words, the remedy “condemns a form of conscious 
+advantage-taking” and seeks to thwart an “opportunistic
+calculation” that breaching is better than performing.
+Ibid.
+This Court, however, has never before relied on §39 nor 
+adopted its proposed theory of disgorgement.  And for good 
+reason: It lacks support in the law.  One reviewer of §39 
+has described it as a “novel extension” of restitution prin­
+ciples that “will alter the doctrinal landscape of contract 
+law.” Roberts, Restitutionary Disgorgement for Opportun­
+istic Breach of Contract and Mitigation of Damages, 42 
+Loyola (LA) L. Rev. 131, 134 (2008).  And few courts have
+ever relied on §39. The sheer novelty of this proposed 
+remedy counsels against applying it here. 
+  
+ 9 Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+In any event, §39 opines that disgorgement should be
+available only when a party deliberately breaches a con­
+tract. This makes sense.  If disgorgement is an antidote 
+for “efficient breach,” then it need only be administered 
+when “conscious advantage-taking” and “opportunistic 
+calculation” are present. But as noted above, the Master 
+expressly found that no deliberate breach occurred.  Re­
+port 130. The Master’s reliance on §39 was accordingly 
+misplaced. 
+3 
+Perhaps recognizing the weakness in the Master’s rec­
+ommendation, the majority takes a different approach,
+fashioning a new remedy of disgorgement for reckless
+breach. According to the majority, Nebraska’s conduct 
+was essentially reckless, ante, at 14, and the Court may
+order disgorgement “when a State has demonstrated
+reckless disregard” for another State’s contractual rights,
+ante, at 16. As with the Restatement’s proposed theory, 
+there is no basis for that proposition in our cases.
+Because disgorgement is available, if at all, only in cases
+of deliberate breach, the majority asserts that, “[i]n some
+areas of the law,” the line between intent and reckless
+disregard “makes no difference.” Ante, at 15. Accepting
+the truth of that proposition in some circumstances, the 
+majority’s caveat acknowledges that it is not true in oth­
+ers. Indeed, the law often places significant weight on the
+distinction between intentional and reckless conduct.  See, 
+e.g., Kawaauhau v. Geiger, 523 U. S. 57, 61 (1998) (dis­
+cussing “ ‘willful,’ ” “deliberate,” and “intentional” conduct,
+and distinguishing those terms from “reckless” conduct);
+see also Global-Tech Appliances, Inc. v. SEB S. A., 563 
+U. S. ___, ___–___ (2011) (slip op., at 13–14) (distinguish­
+ing “willful blindness” from “recklessness”).
+The majority provides scant support for its conclusion 
+that breach of an interstate water compact is an area in
+   
+10 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+which the line between intent and recklessness is practi­
+cally irrelevant. It first relies on Bullock v. BankCham-
+paign, N. A., 569 U. S. ___, ___ (2013) (slip op., at 1), in 
+which the Court determined the mental state necessary
+for “ ‘defalcation while acting in a fiduciary capacity,’ ” as
+used in the Bankruptcy Code.  Ante, at 15. In the absence 
+of a fiduciary relationship, however, Bullock has little 
+relevance. Cf. Harris Trust and Sav. Bank v. Salomon
+Smith Barney Inc., 530 U. S. 238, 250 (2000) (noting the 
+special disgorgement rules that apply “when a trustee in 
+breach of his fiduciary duty to the beneficiaries transfers
+trust property to a third person”). 
+The majority next relies on Ernst & Ernst v. Hochfelder, 
+425 U. S. 185 (1976), which addressed “scienter” under 
+§10(b) of the Securities Act of 1933.  Ante, at 15 (citing 425
+U. S., at 193–194, n. 12).  The Court noted that it used the
+term “scienter” to mean “intent to deceive, manipulate, or
+defraud.” Id., at 194, n. 12.  It then asserted—in dictum
+and without support—that recklessness is considered to be 
+a form of intentional conduct in some areas of the law, but 
+it declined to address whether reckless conduct could be 
+sufficient for §10(b) liability.  Ibid.  That dictum is hardly
+sufficient grounds for claiming that recklessness and 
+intent are equivalent mental states in compact disputes
+between States. 
+If anything, the reverse is true.  Disgorgement is strong 
+medicine, and as with other forms of equitable power, we
+should impose it against the States “only sparingly.” 
+Jenkins, 515 U. S., at 131 (THOMAS, J., concurring). The
+majority insists that the justification for disgorgement is 
+enhanced “when one State gambles with another State’s
+rights to a scarce natural resource.”  Ante, at 16. But the 
+way this Court has always discouraged gambling with this
+scarce resource is to require delivery of water, not money. 
+Prior to 1987, “we had never even suggested that mone­
+tary damages could be recovered from a State as a remedy
+  
+  
+11Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+for its violation of an interstate compact apportioning the 
+flow of an interstate stream.”  Kansas v. Colorado, 533 
+U. S., at 23 (O’Connor, J., concurring in part and dissent­
+ing in part). If a State’s right to the “scarce natural re­
+source” of water is the problem, then perhaps the Court 
+ought to follow its usual practice of ordering specific per­
+formance rather than improvising a new remedy of “reck­
+less disgorgement.” 
+B 
+The majority compounds its errors by authorizing an
+arbitrary amount of disgorgement.  As explained above,
+the measure of the disgorgement award should be the
+profits derived from a deliberate breach.  Yet the Special
+Master acknowledged that its $1.8 million award was not 
+based on any measure of Nebraska’s profits from breach­
+ing the Compact. Report 179–180. The Master gave no
+dollar estimate of Nebraska’s profits and said only that its
+gain was “very much larger than Kansas’ loss” of $3.7
+million, “likely by more than several multiples.”  Id., at
+178. Despite producing no estimate more precise than
+“very much larger,” the Master ordered a disgorgement
+award of $1.8 million.  Id., at 178–179. 
+The majority explains that “we cannot be sure why the
+Master selected the exact number he did.”  Ante, at 19. 
+Indeed.  Neither the majority nor the Special Master nor I 
+can identify a justifiable basis for this amount. It appears
+that $1.8 million just feels like not too much, but not too
+little. 
+We should hold ourselves to a higher standard. In other 
+contexts, we have demanded that district courts “provide 
+proper justification” for a monetary award rather than
+divining an amount that appears to be “essentially arbi­
+trary.”  Perdue v. Kenny A., 559 U. S. 542, 557 (2010).  We
+should do the same ourselves if we are going to award 
+disgorgement here. As with ordinary damages, disgorge­
+ 
+ 
+12 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+ment should not be awarded “beyond an amount that the
+evidence permits to be established with reasonable cer­
+tainty.” Restatement (Second) of Contracts §352.  And a
+disgorgement award ought to be calculated based on some­
+thing more than the Special Master’s intuitions.
+The majority claims that the Master “took into account
+the appropriate considerations,” including “Nebraska’s
+incentives, past behavior, and more recent compliance
+efforts” in reaching the award. Ante, at 19. But it makes
+no difference that he took those factors into account if he 
+arrived at a number that has no articulable relationship to
+Nebraska’s profits.  Equitable disgorgement is not an
+arbitrary penalty designed to compel compliance, nor 
+should it become one.
+What is more, the Master considered factors beyond
+those relevant to the calculation of a disgorgement award.
+In his view, $1.8 million “moves substantially towards 
+turning the actual recovery by Kansas, net of reasonable 
+transaction costs, into an amount that approximates a full 
+recovery for the harm suffered.”  Report 179.  In other 
+words, $1.8 million makes Kansas whole because it is a 
+reasonable estimate of Kansas’ “transaction costs”—which 
+presumably means the State’s attorney’s fees and litiga­
+tion costs. But, under the “American Rule,” we generally
+do not award attorney’s fees “to a prevailing party absent
+explicit statutory authority.” Buckhannon Board & Care 
+Home, Inc. v. West Virginia Dept. of Health and Human
+Resources, 532 U. S. 598, 602 (2001) (internal quotation 
+marks omitted). And neither the majority, nor Kansas,
+nor the Special Master offers any support for the proposi­
+tion that a disgorgement award can smuggle in an award 
+of attorney’s fees.  If disgorgement were an appropriate 
+remedy in this case, then the Court should require a calcu­
+lation based on Nebraska’s profits rather than Kansas’ 
+“transaction costs.”    
+13Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+III
+ 
+A I would also reject the Master’s recommendation to
+reform the Settlement because that recommendation
+conflicts with the equitable doctrine of reformation.  The 
+remedy of reformation is available to correct a contract if,
+“owing to mutual mistake, the language used therein did 
+not fully or accurately express the agreement and inten­
+tion of the parties.”  Philippine Sugar Estates Development 
+Co. v. Government of Philippine Islands, 247 U. S. 385, 
+389 (1918). The well-established rule is that, when a 
+written contract “fails to express the agreement because of 
+a mistake of both parties as to the contents or effect of the 
+writing, the court may at the request of a party reform the 
+writing to express the agreement.” Restatement (Second)
+of Contracts §155, at 406. 
+Reformation is thus available only when the parties
+reach an agreement but then “fail to express it correctly in
+the writing.” Id., Comment a, at 406.  If “the parties make
+a written agreement that they would not otherwise have
+made because of a mistake other than one as to expres­
+sion, the court will not reform a writing to reflect the 
+agreement that it thinks they would have made.”  Id.,
+Comment b, at 408. Because modifying a written agree­
+ment is an extraordinary step, a party seeking reformation 
+must prove the existence of a mutual mistake of expres­
+sion by “ ‘clear and convincing evidence.’ ”  Id., Comment c, 
+at 410. 
+Nebraska cannot meet that burden because the States
+made no mistake in reducing their agreement to writing.
+Here are the terms the States agreed upon in their bind­
+ing Settlement: 
+“Beneficial Consumptive Use of Imported Water Sup­
+ply shall not count as Computed Beneficial Consump­
+tive Use or Virgin Water Supply.  . . . Determinations
+14 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+of Beneficial Consumptive Use from Imported Water 
+Supply (whether determined expressly or by implica­
+tion) . . . shall be calculated in accordance with the
+[Republican River Compact Admin. (RRCA)] Account­
+ing Procedures and by using the RRCA Groundwater 
+Model.” Settlement §IV(F), p. 25. 
+The States thus agreed not to count water imported from
+outside the Republican River Basin.  But in the very same 
+provision, they agreed to calculate the use of imported 
+water using the RRCA Accounting Procedures and the
+RRCA Groundwater Model.  The terms of the Settlement
+are thus crystal clear: The accounting procedures control 
+determinations of consumptive use of imported water.
+And the parties do not contend that they made any draft­
+ing mistake in recording the accounting procedures or the 
+groundwater model. 
+Instead, the parties’ mistake was their belief that the
+accounting procedures and water model they agreed upon
+would accurately exclude imported water from the calcula­
+tion of Nebraska’s consumptive use.  They were wrong 
+about this.  In fact, under dry weather conditions, when
+native water flows are depleted, the water model charges 
+Nebraska for pumping imported water. Report 32–37.
+The parties did not realize the magnitude of this error.  To
+the extent they thought about it at all, they realized the 
+water model was not perfectly precise, but assumed that
+only very small, immaterial amounts of imported water 
+would make their way into the calculations.  See id., at 27.
+A key member of the modeling committee testified that he
+was “intellectually aware” of the imported-water issue, but
+that “we didn’t believe that that was going to be a big
+issue.” See Tr. 727 (testimony of Willem Schreüder).There is no testimony from any source suggesting that
+the parties agreed to a different water model.  See Report
+26–27. Nebraska thus cannot meet its burden to show by  
+  
+ 
+ 
+15Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+clear and convincing evidence that the parties agreed to
+Nebraska’s “ ‘5-run formula,’ ” ante, at 20, but failed to
+express that agreement accurately in writing.
+If there is any mistake in this Settlement, it is not a
+mistake in writing, but in thinking.  The parties knew
+what the methodology was and they expressly agreed to
+that methodology. They simply thought the methodology
+would work better than it did.  See Tr. 727. Even though
+the methodology they agreed upon was imperfect, a writ­
+ing may be reformed only to conform with the parties’
+actual agreement, not to create a better one. 
+The appropriate equitable remedy, if any, in these cir­
+cumstances would be rescission, not reformation.  In gen­
+eral, if there is a mutual mistake “as to a basic assumption
+on which the contract was made,” the adversely affected
+party may seek to avoid the contract.  Restatement (Sec­
+ond) of Contracts §152, at 385; see also id., §155, Com­
+ment b, Illustration 4, at 409 (noting that reformation is 
+not available to remedy a mistake as to something other 
+than reducing the agreement to writing).  The States have
+not asked for rescission, of course, but it is incorrect to
+suggest, see ante, at 27, that there is no other solution to 
+this problem. 
+B 
+Realizing that ordinary reformation is not available for
+Nebraska, the majority again summons its equitable 
+power and renegotiates the accounting procedures to
+create what it considers a fairer agreement for the States. 
+In doing so, it announces a new doctrine of reformation: In 
+resolving water disputes, the Court will “correct subsidi­
+ary technical agreements to promote accuracy in appor­
+tion[ment].” Ante, at 24.  From here on out, the Court will 
+“modif[y] a technical agreement to correct material errors
+in the way it operates and thus align it with the compact­
+ing States’ intended apportionment.”  Ante, at 25.
+  
+ 
+16 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+As this case illustrates, adopting this novel remedy is a
+mistake. The majority fails in its attempt to conform this 
+new doctrine of “technical agreement correction” with both
+principles of equity and our precedent governing compact 
+disputes. And after creating an unjustified doctrine, the 
+majority misapplies it.
+1 
+To begin, the majority’s reliance on equitable power is
+misplaced. That a court is exercising equitable power
+means only that it must look to established principles of 
+equity. And reformation is the equitable doctrine that 
+Nebraska seeks in this case.  The Court should thus follow 
+the rules of reformation, just as it would adhere to the
+contours of any other equitable doctrine.  Indeed, we have 
+demanded as much from lower courts when they exercise 
+their power to grant other forms of equitable relief, such
+as a permanent injunction. See eBay Inc. v. Merc-
+Exchange, L. L. C., 547 U. S. 388, 392–394 (2006).  If a
+court fails to apply the proper standard for a permanent 
+injunction, it is no answer to recite the obvious fact that
+the court acted in equity. See id., at 394. 
+Putting aside the assertion of equitable power, there is 
+no support in our precedents for the majority’s doctrine of 
+“technical agreement correction.”  The majority first sug­
+gests that this Court reformed a “technical document” in 
+Texas v. New Mexico, 446 U. S. 540 (1980) (per curiam)
+(Texas I ). Ante, at 24.  But there was no reformation at 
+issue in that case—either of the compact or an ancillary 
+technical agreement—only the interpretation of the words
+in the Pecos River Compact.  Texas I, supra, at 540; see 
+Report of Special Master on Obligation of New Mexico to
+Texas under the Pecos River Compact, O. T. 1975, No. 65, 
+Orig., pp. 15–16, 34–37 (filed Oct. 15, 1979) (purporting to 
+interpret the compact).
+The majority also claims that in Kansas v. Colorado, 543    
+ 
+ 
+17Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+U. S. 86 (2004), we “approved the Master’s alteration of 
+the parties’ agreement . . . .” Ante, at 24. But nothing in
+Kansas v. Colorado supports revising the express terms of
+a settlement agreement. In that case, the Court adopted a 
+Special Master’s recommendation to calculate water usage 
+based on a 10–year average rather than a single year.  543
+U. S., at 99–100.  There is no suggestion in the Court’s
+opinion (nor in the briefs filed in that case) that the States
+had previously agreed to use a 1-year method for calculat­
+ing water usage or that anyone thought “reformation” of 
+the compact or any ancillary agreement was needed.  To 
+the contrary, the Court explained that the compact simply
+did “not define the length of time over which” the States 
+must make the relevant measurements.  Id., at 100. 
+There was thus nothing to rewrite, nothing to reform.  The 
+majority suggests that the States in that case had “ ‘agreed 
+to the use of annual measurement’ ” for calculating future
+water usage, ante, at 24 (quoting Kansas v. Colorado, 
+supra, at 102), but the quoted passage refers to the unre­
+lated fact that the States had, earlier in the litigation,
+“agreed to the use of annual measurement for purposes of 
+calculating past damages,” not future water usage, 543
+U. S., at 102 (emphasis added). That litigation stipulation
+did not apply to the calculation of future water usage or 
+future damages.  Ibid.  Even if the majority were correct
+that a damages calculation is simply the flip side of a
+water usage calculation, ante, at 25, n. 10, that conclusion 
+plainly would apply only to calculation of past water us­
+age. It is thus no surprise that the Court held that any 
+pre-existing damages agreements did not govern the
+method of measuring future compliance. Kansas v. Colo-
+rado, supra, at 103. Given that the Court plainly did not 
+apply any such agreements, it cannot be said to have
+altered them. 
+18 KANSAS v. NEBRASKA
+Opinion of THOMAS, J. 
+2 
+Having improperly invented the doctrine of “technical
+agreement correction,” the majority proceeds to misapply
+it. In “correcting” the accounting procedures, the majority
+purports to align them with the intent of the compacting
+parties. Ante, at 24–25. But we know that the majority’s
+reformed contract does not match the “States’ intended 
+apportionment.” Ante, at 25.  We know this because the
+Settlement expressly states that, for purposes of appor­
+tioning the flow, imported water use would be calculated
+using the agreed-upon “Accounting Procedures” and the
+“Groundwater Model.”  Settlement §IV(F), at 25.  The 
+States never intended to adopt the 5-run formula, and the
+Court has simply picked a winner and adopted Nebraska’s
+5-run proposal, notwithstanding a binding agreement to
+the contrary.
+The majority also misapplies its “correction” remedy in 
+claiming that its fix will prevent the existing accounting
+procedures from “affirmatively violat[ing] the Compact.” 
+Ante, at 26.  I cannot see how this is true.  First, the exist­
+ing procedures do not violate the Compact. We should
+favor an interpretation of the Compact that would render 
+its performance possible, rather than “impossible or mean­
+ingless.” 2 S. Williston, Law of Contracts §620, p. 1202
+(1920). Read in light of this principle, the phrase “Virgin
+Water Supply” must be interpreted to allow for some 
+imperfection in the groundwater models.  After all,
+groundwater models are approximations of the physical
+world. Tr. 722–726. No accounting procedure can plausi­
+bly track every drop of water through the 24,900 square 
+mile Basin. Id., at 724.
+Second, even if the existing accounting procedures
+would violate the Compact because they allocate some
+imported water, the majority’s “correction” will not solve 
+the problem.  Because water models are always approxi­
+mations, even the 5-run formula will be imprecise and will
+  
+  
+19Cite as: 574 U. S. ____ (2015) 
+Opinion of THOMAS, J. 
+therefore violate the Compact if it is read to require the
+States accurately to account for every drop of imported
+water.
+* * * 
+Claiming to draw from a vast reservoir of equitable 
+power, the Court ignores the limits of its role in resolving 
+water-compact disputes between States.  And in the name
+of protecting downstream States from their upstream
+neighbors, it diminishes the sovereign status of each of 
+them. 
+We owe the parties better. I would apply the same
+principles of contract law that we have previously applied
+to water disputes between States.  Under those principles, 
+I would sustain Nebraska’s and Colorado’s exceptions to 
+the Master’s recommendation to order $1.8 million in
+disgorgement, and overrule Kansas’ exception to that 
+recommendation. I would also sustain Kansas’ exception 
+to the Master’s recommendation to reform the Settlement. 
+I agree only with the Court’s decisions to overrule Ne­
+braska’s exception to the Master’s finding that it know- 
+ingly failed to comply with the Compact, and Kansas’ ex­
+ception to the Master’s recommendation not to issue
+an injunction requiring Nebraska to comply with the
+Compact.
+              
