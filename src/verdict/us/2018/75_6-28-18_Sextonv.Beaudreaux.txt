@@ -5,7 +5,7 @@ date:6/28/18
 docket:17-1106
 name:Sexton v. Beaudreaux
 summary: The Ninth Circuit erred in reversing a denial of federal habeas relief on the ground that the state court had unreasonably rejected respondent’s ineffective-assistance-of-counsel claim.
-revised: 
+revised:
 J.:PC
 Pt.:585/2
 url:https://www.supremecourt.gov/opinions/17pdf/17-1106_ipdi.pdf

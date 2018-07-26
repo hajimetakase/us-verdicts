@@ -5,7 +5,7 @@ date:6/28/18
 docket:17-1364
 name:North Carolina v. Covington
 summary: The District Court’s order is affirmed insofar as it provided a court-drawn remedy for Senate Districts 21 and 28 and House Districts 21 and 57 and reversed as to the court’s actions concerning the legislature’s redrawing of House districts in Wake and Mecklenburg Counties.
-revised: 
+revised:
 J.:PC
 Pt.:585/2
 url:https://www.supremecourt.gov/opinions/17pdf/17-1364_h3dj.pdf
