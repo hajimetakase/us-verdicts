@@ -1,0 +1,31 @@
+
+SUMMARY:
+id:30
+date:3/29/16
+docket:14-915
+name:Friedrichs v. California Teachers Assn.
+summary: Judgment affirmed by an equally divided Court.
+revised: 
+J.:PC
+Pt.:578/1
+url:https://www.supremecourt.gov/opinions/15pdf/14-915_1bn2.pdf
+
+VERDICT:
+_________________
+_________________  
+1 (Slip Opinion) Cite as: 578 U. S. ____ (2016) 
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash-
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES 
+No. 14–915
+REBECCA FRIEDRICHS, ET AL., PETITIONERS v.
+CALIFORNIA TEACHERS ASSOCIATION, ET AL. 
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+ 
+[March 29, 2016] PER CURIAM. 
+The judgment is affirmed by an equally divided Court.
+              
